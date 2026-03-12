@@ -34,7 +34,9 @@
         "station": "Colaba Causeway",
         "walk_min": 3
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,irani,cafe,vintage,marble,chairs,chai",
+    "photo_query": "mumbai irani cafe vintage chai marble table"
   },
   {
     "id": "ms2",
@@ -66,7 +68,9 @@
         "station": "Mahim",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,fish,market,dawn,sorting,koli,boats",
+    "photo_query": "mumbai fish market dawn koli fishing"
   },
   {
     "id": "ms3",
@@ -98,7 +102,9 @@
         "station": "Sandhurst Road",
         "walk_min": 9
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,chor,bazaar,antiques,colonial,furniture",
+    "photo_query": "mumbai chor bazaar antiques flea market"
   },
   {
     "id": "ms4",
@@ -130,7 +136,9 @@
         "station": "Vile Parle",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,street,food,lane,evening,vendors",
+    "photo_query": "mumbai street food evening vendors bhel"
   },
   {
     "id": "ms5",
@@ -162,7 +170,9 @@
         "station": "Gateway of India",
         "walk_min": 2
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?elephanta,island,caves,ancient,rock,carved,ferry",
+    "photo_query": "elephanta caves mumbai ferry ancient temple"
   },
   {
     "id": "ms6",
@@ -199,7 +209,9 @@
         "station": "Mohammed Ali Road",
         "walk_min": 3
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,mohammed,ali,road,night,food,ramzan",
+    "photo_query": "mumbai mohammed ali road night food kebabs"
   },
   {
     "id": "ms7",
@@ -231,7 +243,9 @@
         "station": "Walkeshwar Road",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,banganga,sacred,tank,temples,dawn",
+    "photo_query": "mumbai banganga tank sacred temples dawn"
   },
   {
     "id": "ms8",
@@ -263,7 +277,9 @@
         "station": "Cuffe Parade / Sassoon Dock",
         "walk_min": 5
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,fishing,dock,sunrise,boats,sorting,catch",
+    "photo_query": "mumbai fishing dock sunrise catch sorting"
   },
   {
     "id": "ms9",
@@ -295,7 +311,9 @@
         "station": "Charni Road",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,portuguese,cottages,bougainvillea,heritage,lane",
+    "photo_query": "mumbai portuguese cottages heritage village"
   },
   {
     "id": "ms10",
@@ -332,7 +350,9 @@
         "station": "Matunga Road Metro",
         "walk_min": 15
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?dharavi,pottery,wheel,clay,kiln,smoke",
+    "photo_query": "dharavi mumbai pottery clay wheel kiln"
   },
   {
     "id": "ms11",
@@ -364,7 +384,9 @@
         "station": "Versova",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,beach,fishing,village,boats,morning,nets",
+    "photo_query": "mumbai versova beach fishing village boats"
   },
   {
     "id": "ms12",
@@ -396,7 +418,9 @@
         "station": "Bandra",
         "walk_min": 14
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bandra,converted,bungalow,cafe,goan,sorpotel",
+    "photo_query": "bandra mumbai colonial bungalow cafe goan"
   },
   {
     "id": "mag1-0",
@@ -428,7 +452,9 @@
         "station": "Churchgate",
         "walk_min": 9
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,parsi,restaurant,lunch,fort,lawyers",
+    "photo_query": "mumbai parsi dhansak restaurant fort lunch"
   },
   {
     "id": "mag1-1",
@@ -460,7 +486,9 @@
         "station": "CST / Churchgate",
         "walk_min": 14
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,parsi,heritage,restaurant,lunch,century",
+    "photo_query": "mumbai parsi restaurant berry pulao heritage"
   },
   {
     "id": "mag1-2",
@@ -492,7 +520,9 @@
         "station": "Marine Lines",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?irani,cafe,vintage,bentwood,chairs,mawa,cake",
+    "photo_query": "mumbai irani cafe 1904 vintage bentwood chairs"
   },
   {
     "id": "mag1-3",
@@ -524,7 +554,9 @@
         "station": "CST",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,cafe,art,gallery,kala,ghoda,coffee",
+    "photo_query": "mumbai art cafe kala ghoda gallery"
   },
   {
     "id": "mag1-4",
@@ -556,7 +588,9 @@
         "station": "Dadar",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?maharashtrian,misal,pav,sabudana,breakfast,queue",
+    "photo_query": "mumbai maharashtrian misal pav breakfast"
   },
   {
     "id": "mag1-5",
@@ -588,7 +622,9 @@
         "station": "Churchgate",
         "walk_min": 10
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?art,deco,cinema,vintage,interior,1930s",
+    "photo_query": "mumbai art deco cinema 1930s interior"
   },
   {
     "id": "mag1-6",
@@ -620,7 +656,9 @@
         "station": "Colaba Causeway",
         "walk_min": 5
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?seafood,raw,bar,oysters,colaba,restaurant",
+    "photo_query": "mumbai seafood restaurant bar colaba"
   },
   {
     "id": "mag1-7",
@@ -652,7 +690,9 @@
         "station": "Churchgate",
         "walk_min": 11
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?library,neoclassical,heritage,reading,room,columns",
+    "photo_query": "mumbai library neoclassical heritage reading"
   },
   {
     "id": "mag1-8",
@@ -684,7 +724,9 @@
         "station": "Masjid Bunder",
         "walk_min": 6
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?crawford,market,victorian,wholesale,flowers,dawn",
+    "photo_query": "mumbai crawford market victorian wholesale flowers"
   },
   {
     "id": "mag1-9",
@@ -716,7 +758,9 @@
         "station": "Churchgate",
         "walk_min": 6
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,oval,maidan,cricket,evening,art,deco",
+    "photo_query": "mumbai cricket oval maidan art deco evening"
   },
   {
     "id": "mag2-0",
@@ -748,7 +792,9 @@
         "station": "Bandra",
         "walk_min": 17
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bandra,bungalow,verandah,goan,coastal,restaurant",
+    "photo_query": "bandra mumbai bungalow verandah goan prawn curry"
   },
   {
     "id": "mag2-1",
@@ -780,7 +826,9 @@
         "station": "Bandra",
         "walk_min": 11
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?pani,puri,street,food,bandra,hill,road,queue",
+    "photo_query": "mumbai pani puri street food bandra"
   },
   {
     "id": "mag2-2",
@@ -812,7 +860,9 @@
         "station": "Bandra",
         "walk_min": 15
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bandra,cafe,sunday,morning,coffee,outdoor,tables",
+    "photo_query": "bandra cafe sunday morning filter coffee outdoor"
   },
   {
     "id": "mag2-3",
@@ -844,7 +894,9 @@
         "station": "Bandra",
         "walk_min": 20
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bandra,sea,promenade,sunset,sea,link,view",
+    "photo_query": "bandra mumbai sea promenade sunset sea link"
   },
   {
     "id": "mag2-4",
@@ -876,7 +928,9 @@
         "station": "Bandra",
         "walk_min": 22
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bandra,fort,ruins,headland,sea,view,arabian",
+    "photo_query": "bandra fort ruins mumbai sea arabian"
   },
   {
     "id": "mag2-5",
@@ -908,7 +962,9 @@
         "station": "Bandra",
         "walk_min": 16
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?colonial,bungalow,garden,gin,bar,evening",
+    "photo_query": "bandra mumbai colonial bungalow garden gin bar"
   },
   {
     "id": "mag2-6",
@@ -940,7 +996,9 @@
         "station": "Bandra",
         "walk_min": 18
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?carter,road,mumbai,food,carts,evening,sea",
+    "photo_query": "mumbai carter road street food vendors evening"
   },
   {
     "id": "mag2-7",
@@ -972,7 +1030,9 @@
         "station": "Bandra",
         "walk_min": 13
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bandra,street,art,murals,chapel,road,fish",
+    "photo_query": "bandra mumbai street art murals chapel road"
   },
   {
     "id": "mag2-8",
@@ -1004,7 +1064,9 @@
         "station": "Haji Ali",
         "walk_min": 6
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,mughlai,restaurant,seekh,kebabs,haji,ali",
+    "photo_query": "mumbai mughlai restaurant seekh kebab haji ali"
   },
   {
     "id": "mag2-9",
@@ -1036,7 +1098,9 @@
         "station": "Haji Ali",
         "walk_min": 4
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?haji,ali,juice,bar,mango,milkshake,counter",
+    "photo_query": "mumbai haji ali juice mango chikoo"
   },
   {
     "id": "mag3-0",
@@ -1068,7 +1132,9 @@
         "station": "Matunga",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?matunga,south,indian,filter,coffee,brass,tumbler",
+    "photo_query": "mumbai matunga south indian filter coffee idli"
   },
   {
     "id": "mag3-1",
@@ -1100,7 +1166,9 @@
         "station": "Matunga",
         "walk_min": 6
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?south,indian,idli,tiffin,house,morning,chutney",
+    "photo_query": "mumbai south indian tiffin idli chutney matunga"
   },
   {
     "id": "mag3-2",
@@ -1132,7 +1200,9 @@
         "station": "Matunga Road",
         "walk_min": 9
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mangalorean,neer,dosa,fish,curry,family,restaurant",
+    "photo_query": "mumbai mangalorean restaurant neer dosa fish"
   },
   {
     "id": "mag3-3",
@@ -1165,7 +1235,9 @@
         "station": "Matunga",
         "walk_min": 5
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?flower,market,wholesale,marigold,jasmine,morning,colour",
+    "photo_query": "mumbai flower market marigold jasmine wholesale"
   },
   {
     "id": "mag3-4",
@@ -1197,7 +1269,9 @@
         "station": "Matunga",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?south,indian,grocery,heritage,spice,masala,shop",
+    "photo_query": "south indian grocery spices masala heritage shop"
   },
   {
     "id": "mag3-5",
@@ -1230,7 +1304,9 @@
         "station": "Matunga Road",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?saraswat,konkani,fish,thali,restaurant,simple",
+    "photo_query": "mumbai saraswat konkani fish thali restaurant"
   },
   {
     "id": "mag3-6",
@@ -1263,7 +1339,9 @@
         "station": "Matunga",
         "walk_min": 6
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?south,indian,pongal,tiffin,family,restaurant,1940",
+    "photo_query": "mumbai tamil south indian pongal puliyogare"
   },
   {
     "id": "mag3-7",
@@ -1296,7 +1374,9 @@
         "station": "Matunga",
         "walk_min": 5
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?vegetable,market,south,indian,morning,drumstick",
+    "photo_query": "mumbai vegetable market south indian morning"
   },
   {
     "id": "mag3-8",
@@ -1328,7 +1408,9 @@
         "station": "Matunga",
         "walk_min": 6
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?coconut,oil,cold,press,stone,mill,shed",
+    "photo_query": "coconut oil press stone mill kerala"
   },
   {
     "id": "mag3-9",
@@ -1360,7 +1442,9 @@
         "station": "Dadar",
         "walk_min": 9
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?masala,dosa,south,indian,restaurant,crispy",
+    "photo_query": "mumbai masala dosa south indian restaurant"
   },
   {
     "id": "mag4-0",
@@ -1392,7 +1476,9 @@
         "station": "Lower Parel",
         "walk_min": 9
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?lower,parel,mill,craft,beer,bar,industrial",
+    "photo_query": "mumbai lower parel mill craft beer bar"
   },
   {
     "id": "mag4-1",
@@ -1424,7 +1510,9 @@
         "station": "Byculla",
         "walk_min": 10
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,victorian,museum,ornate,restoration,byculla",
+    "photo_query": "mumbai victorian museum 1872 byculla heritage"
   },
   {
     "id": "mag4-2",
@@ -1456,7 +1544,9 @@
         "station": "Lower Parel",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?lower,parel,converted,mill,bar,warehouse,shed",
+    "photo_query": "mumbai lower parel converted mill bar warehouse"
   },
   {
     "id": "mag4-3",
@@ -1488,7 +1578,9 @@
         "station": "Worli Naka",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?worli,koli,fishing,village,market,dawn,boats",
+    "photo_query": "mumbai worli koli fishing village market dawn"
   },
   {
     "id": "mag4-4",
@@ -1520,7 +1612,9 @@
         "station": "Vile Parle",
         "walk_min": 14
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?theatre,cafe,peepal,tree,outdoor,chai,actors",
+    "photo_query": "mumbai prithvi theatre cafe peepal tree chai"
   },
   {
     "id": "mag4-5",
@@ -1552,7 +1646,9 @@
         "station": "Churchgate",
         "walk_min": 13
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?contemporary,art,gallery,white,walls,india",
+    "photo_query": "mumbai contemporary art gallery fort india"
   },
   {
     "id": "mag4-6",
@@ -1584,7 +1680,9 @@
         "station": "CST",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?cocktail,bar,vault,edwardian,architecture,wood",
+    "photo_query": "mumbai cocktail bar edwardian vault banking"
   },
   {
     "id": "mag4-7",
@@ -1616,7 +1714,9 @@
         "station": "Byculla",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?zoo,victorian,garden,morning,birds,aviary",
+    "photo_query": "byculla zoo mumbai victorian garden morning"
   },
   {
     "id": "mag4-8",
@@ -1648,7 +1748,9 @@
         "station": "Worli Seaface",
         "walk_min": 4
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,worli,sea,link,fishermen,promenade,morning",
+    "photo_query": "mumbai worli sea link fishermen morning"
   },
   {
     "id": "mag4-9",
@@ -1680,7 +1782,9 @@
         "station": "Lower Parel",
         "walk_min": 10
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?modern,indian,restaurant,lower,parel,design",
+    "photo_query": "mumbai modern indian restaurant lower parel"
   },
   {
     "id": "mag5-0",
@@ -1712,7 +1816,9 @@
         "station": "Versova",
         "walk_min": 15
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?koli,fishing,village,fish,fry,fresh,bombay",
+    "photo_query": "mumbai koli fishing village fish fry versova"
   },
   {
     "id": "mag5-1",
@@ -1745,7 +1851,9 @@
         "station": "Vile Parle",
         "walk_min": 18
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?juhu,beach,evening,bhel,vendors,sunset,arabian",
+    "photo_query": "mumbai juhu beach evening bhel vendors sunset"
   },
   {
     "id": "mag5-2",
@@ -1777,7 +1885,9 @@
         "station": "Marine Lines",
         "walk_min": 14
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?gujarati,thali,unlimited,silver,plate,vegetarian",
+    "photo_query": "mumbai gujarati thali unlimited vegetarian silver"
   },
   {
     "id": "mag5-3",
@@ -1809,7 +1919,9 @@
         "station": "Azad Nagar",
         "walk_min": 11
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?andheri,lokhandwala,market,fabric,lane,bollywood",
+    "photo_query": "mumbai andheri lokhandwala market fabric"
   },
   {
     "id": "mag5-4",
@@ -1841,7 +1953,9 @@
         "station": "Andheri",
         "walk_min": 11
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?colonial,gymkhana,cricket,carrom,evening,bar",
+    "photo_query": "mumbai colonial gymkhana cricket carrom evening"
   },
   {
     "id": "mag5-5",
@@ -1874,7 +1988,9 @@
         "station": "Andheri",
         "walk_min": 9
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?kulfi,ice,cream,tin,moulds,traditional,falooda",
+    "photo_query": "mumbai kulfi ice cream traditional tin moulds"
   },
   {
     "id": "mag5-6",
@@ -1906,7 +2022,9 @@
         "station": "DN Nagar",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?vegetable,wholesale,market,dawn,andheri,bags",
+    "photo_query": "mumbai wholesale vegetable market andheri dawn"
   },
   {
     "id": "mag5-7",
@@ -1938,7 +2056,9 @@
         "station": "Marve Beach then ₹10 ferry",
         "walk_min": 0
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?madh,island,ferry,fishing,village,koli,lunch",
+    "photo_query": "madh island mumbai fishing village ferry boat"
   },
   {
     "id": "mag5-8",
@@ -1970,7 +2090,9 @@
         "station": "Andheri",
         "walk_min": 6
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?dhaba,butter,chicken,roadside,punjabi,karahi",
+    "photo_query": "mumbai dhaba butter chicken punjabi roadside"
   },
   {
     "id": "mag5-9",
@@ -2002,7 +2124,9 @@
         "station": "Goregaon",
         "walk_min": 15
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bollywood,film,studio,gates,extras,morning",
+    "photo_query": "mumbai bollywood film studio gates extras"
   },
   {
     "id": "mag6-0",
@@ -2035,7 +2159,9 @@
         "station": "Marine Lines",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?parsi,dairy,fresh,cream,milk,heritage,counter",
+    "photo_query": "mumbai parsi dairy fresh cream milk heritage"
   },
   {
     "id": "mag6-1",
@@ -2067,7 +2193,9 @@
         "station": "Kurla",
         "walk_min": 11
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?meat,market,butchers,wholesale,dawn,marathi",
+    "photo_query": "mumbai meat market butchers dawn wholesale"
   },
   {
     "id": "mag6-2",
@@ -2100,7 +2228,9 @@
         "station": "Ghatkopar",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?gujarati,street,food,pani,puri,sev,evening",
+    "photo_query": "mumbai gujarati street food pani puri sev"
   },
   {
     "id": "mag6-3",
@@ -2132,7 +2262,9 @@
         "station": "Vikhroli",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?converted,mill,design,workshop,parkside,green",
+    "photo_query": "mumbai vikhroli converted mill design workshop"
   },
   {
     "id": "mag6-4",
@@ -2164,7 +2296,9 @@
         "station": "Andheri",
         "walk_min": 16
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?dhaba,roadside,workers,midnight,food,simple",
+    "photo_query": "mumbai dhaba roadside workers night food"
   },
   {
     "id": "mag6-5",
@@ -2196,7 +2330,9 @@
         "station": "Santacruz",
         "walk_min": 20
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?airport,runway,view,observation,aircraft",
+    "photo_query": "mumbai airport runway view observation"
   },
   {
     "id": "mag6-6",
@@ -2228,7 +2364,9 @@
         "station": "Sion",
         "walk_min": 9
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?sion,koli,fishing,village,fort,mangrove,creek",
+    "photo_query": "mumbai sion koli village fort mangrove"
   },
   {
     "id": "mag6-7",
@@ -2260,7 +2398,9 @@
         "station": "Chembur",
         "walk_min": 13
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?sindhi,market,partition,colony,chembur,stalls",
+    "photo_query": "mumbai sindhi market chembur partition colony"
   },
   {
     "id": "mag6-8",
@@ -2292,7 +2432,9 @@
         "station": "Chembur + auto",
         "walk_min": 0
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mangrove,flamingos,nature,walk,creek,quiet",
+    "photo_query": "mumbai mangrove flamingos nature walk"
   },
   {
     "id": "mag6-9",
@@ -2325,7 +2467,9 @@
         "station": "Santacruz",
         "walk_min": 5
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?vadapav,stall,subway,counter,queue,queue",
+    "photo_query": "mumbai vadapav stall santacruz subway"
   },
   {
     "id": "mag7-0",
@@ -2357,7 +2501,9 @@
         "station": "Sandhurst Road",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?nihari,morning,broth,muslim,restaurant,slow,cook",
+    "photo_query": "mumbai nihari breakfast muslim restaurant"
   },
   {
     "id": "mag7-1",
@@ -2389,7 +2535,9 @@
         "station": "Sandhurst Road",
         "walk_min": 11
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?malpua,sweet,dessert,fried,rabdi,shop",
+    "photo_query": "mumbai malpua sweet shop mohammed ali road"
   },
   {
     "id": "mag7-2",
@@ -2422,7 +2570,9 @@
         "station": "Sandhurst Road",
         "walk_min": 9
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bohri,community,food,lane,doorstep,raan,haleem",
+    "photo_query": "mumbai bohri food lane community raan haleem"
   },
   {
     "id": "mag7-3",
@@ -2455,7 +2605,9 @@
         "station": "Sandhurst Road",
         "walk_min": 10
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?attar,perfume,shop,oud,fragrance,bottles,mosque",
+    "photo_query": "mumbai attar perfume shop oud jasmine old"
   },
   {
     "id": "mag7-4",
@@ -2488,7 +2640,9 @@
         "station": "Colaba Causeway",
         "walk_min": 6
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mughlai,restaurant,seekh,roll,haleem,colaba",
+    "photo_query": "mumbai seekh roll haleem muslim restaurant"
   },
   {
     "id": "mag7-5",
@@ -2520,7 +2674,9 @@
         "station": "Sandhurst Road",
         "walk_min": 16
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?wood,fired,clay,pot,handi,restaurant,curry",
+    "photo_query": "mumbai wood fired handi clay pot restaurant"
   },
   {
     "id": "mag7-6",
@@ -2553,7 +2709,9 @@
         "station": "Sandhurst Road",
         "walk_min": 13
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?pink,kashmiri,noon,chai,tea,glass,bread",
+    "photo_query": "mumbai noon chai pink kashmiri tea mughlai"
   },
   {
     "id": "mag7-7",
@@ -2585,7 +2743,9 @@
         "station": "Sandhurst Road",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?leather,vintage,trunks,restoration,workshop,chor,bazaar",
+    "photo_query": "mumbai chor bazaar leather vintage trunks"
   },
   {
     "id": "mag7-8",
@@ -2618,7 +2778,9 @@
         "station": "Sandhurst Road",
         "walk_min": 10
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?ramzan,sehri,pre,dawn,market,dates,food",
+    "photo_query": "mumbai ramzan night market dawn sehri"
   },
   {
     "id": "mag7-9",
@@ -2652,7 +2814,9 @@
         "station": "Sandhurst Road",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?sharbat,sherbet,traditional,cooling,drink,bottles",
+    "photo_query": "mumbai sharbat sherbet traditional cooling drinks"
   },
   {
     "id": "mag8-0",
@@ -2685,7 +2849,9 @@
         "station": "Dadar",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?maharashtrian,thali,bhakri,dadar,lunch,workers",
+    "photo_query": "mumbai maharashtrian thali bhakri lunch dadar"
   },
   {
     "id": "mag8-1",
@@ -2717,7 +2883,9 @@
         "station": "Dadar",
         "walk_min": 11
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mumbai,shivaji,park,morning,walk,cricket,dawn",
+    "photo_query": "mumbai shivaji park morning cricket walkers"
   },
   {
     "id": "mag8-2",
@@ -2750,7 +2918,9 @@
         "station": "Dadar",
         "walk_min": 6
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?dadar,flower,market,wholesale,marigold,4am,dawn",
+    "photo_query": "mumbai dadar flower market marigold jasmine wholesale"
   },
   {
     "id": "mag8-3",
@@ -2782,7 +2952,9 @@
         "station": "Vile Parle",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?misal,pav,breakfast,maharashtrian,tarri,spicy",
+    "photo_query": "mumbai misal pav breakfast maharashtrian"
   },
   {
     "id": "mag8-4",
@@ -2815,7 +2987,9 @@
         "station": "Mahim",
         "walk_min": 9
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mahim,dargah,evening,roses,qawwali,shrine,music",
+    "photo_query": "mumbai mahim dargah evening qawwali dargah"
   },
   {
     "id": "mag8-5",
@@ -2848,7 +3022,9 @@
         "station": "Dadar",
         "walk_min": 2
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?vada,pav,dadar,station,stall,queue,chutney",
+    "photo_query": "mumbai vada pav dadar station queue best"
   },
   {
     "id": "mag8-6",
@@ -2880,7 +3056,9 @@
         "station": "Thane",
         "walk_min": 14
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?marathi,theatre,stage,drama,performance",
+    "photo_query": "marathi theatre thane stage drama"
   },
   {
     "id": "mag8-7",
@@ -2913,7 +3091,9 @@
         "station": "Dadar",
         "walk_min": 10
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?goan,restaurant,vindaloo,bebinca,dadar,table",
+    "photo_query": "mumbai goan restaurant xacuti bebinca dadar"
   },
   {
     "id": "mag8-8",
@@ -2946,7 +3126,9 @@
         "station": "Dadar",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?cutting,chai,glass,tea,stall,community,morning",
+    "photo_query": "mumbai cutting chai tea stall dadar community"
   },
   {
     "id": "mag8-9",
@@ -2979,7 +3161,9 @@
         "station": "Dadar",
         "walk_min": 14
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?colonial,architecture,portuguese,british,mumbai,building",
+    "photo_query": "mumbai colonial architecture portuguese british walk"
   },
   {
     "id": "mag9-0",
@@ -3011,7 +3195,9 @@
         "station": "Mahim Junction",
         "walk_min": 15
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?dharavi,leather,tannery,workshop,craft,stitching",
+    "photo_query": "dharavi leather workshop tannery craft"
   },
   {
     "id": "mag9-1",
@@ -3043,7 +3229,9 @@
         "station": "Sion",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?portuguese,church,1606,sion,hill,graveyard",
+    "photo_query": "mumbai portuguese church sion 1606 hill"
   },
   {
     "id": "mag9-2",
@@ -3076,7 +3264,9 @@
         "station": "Chunabhatti",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?tamil,food,idiyappam,coconut,milk,migrant,workers",
+    "photo_query": "mumbai tamil food idiyappam migrant community"
   },
   {
     "id": "mag9-3",
@@ -3109,7 +3299,9 @@
         "station": "Chembur",
         "walk_min": 10
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?parsi,fire,temple,art,deco,garden,colony",
+    "photo_query": "mumbai parsi fire temple art deco colony"
   },
   {
     "id": "mag9-4",
@@ -3142,7 +3334,9 @@
         "station": "Chembur",
         "walk_min": 13
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bollywood,mural,wall,raj,kapoor,rk,studio,heritage",
+    "photo_query": "mumbai bollywood raj kapoor rk studio mural"
   },
   {
     "id": "mag9-5",
@@ -3174,7 +3368,9 @@
         "station": "Govandi",
         "walk_min": 14
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?recycling,market,salvage,waste,sorting,workers",
+    "photo_query": "mumbai recycling waste market salvage"
   },
   {
     "id": "mag9-6",
@@ -3206,7 +3402,9 @@
         "station": "Mahim Junction",
         "walk_min": 16
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?paper,recycling,women,sorting,bales,dharavi",
+    "photo_query": "dharavi paper recycling women enterprise"
   },
   {
     "id": "mag9-7",
@@ -3238,7 +3436,9 @@
         "station": "Matunga Road",
         "walk_min": 11
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?parsi,colony,five,gardens,morning,walk,bungalow",
+    "photo_query": "mumbai parsi colony gardens bungalow morning"
   },
   {
     "id": "mag9-8",
@@ -3271,7 +3471,9 @@
         "station": "Wadala Road",
         "walk_min": 18
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?koli,fishing,village,antop,hill,temple,creek",
+    "photo_query": "mumbai koli fishing village antop hill temple"
   },
   {
     "id": "mag9-9",
@@ -3304,7 +3506,9 @@
         "station": "Sion",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?sugarcane,juice,press,cast,iron,steel,glass",
+    "photo_query": "mumbai sugarcane juice press 1961 steel glass"
   },
   {
     "id": "mag10-0",
@@ -3337,7 +3541,9 @@
         "station": "Malabar Hill / Babulnath",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?malabar,hill,hanging,gardens,sea,sunset,topiary",
+    "photo_query": "mumbai malabar hill hanging gardens sea sunset"
   },
   {
     "id": "mag10-1",
@@ -3370,7 +3576,9 @@
         "station": "Babulnath",
         "walk_min": 6
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?gujarati,vegetarian,handvo,dhokla,restaurant,clean",
+    "photo_query": "mumbai gujarati vegetarian handvo dhokla restaurant"
   },
   {
     "id": "mag10-2",
@@ -3403,7 +3611,9 @@
         "station": "Breach Candy",
         "walk_min": 5
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?colonial,club,arabian,sea,sunset,swimming,pool",
+    "photo_query": "mumbai breach candy colonial club sea view sunset"
   },
   {
     "id": "mag10-3",
@@ -3436,7 +3646,9 @@
         "station": "Charni Road",
         "walk_min": 9
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?chowpatty,beach,morning,yoga,marine,drive,quiet",
+    "photo_query": "mumbai chowpatty beach morning yoga marine drive"
   },
   {
     "id": "mag10-4",
@@ -3469,7 +3681,9 @@
         "station": "Charni Road",
         "walk_min": 11
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?vegetarian,restaurant,1963,chowpatty,menu,diverse",
+    "photo_query": "mumbai vegetarian restaurant 1963 chowpatty"
   },
   {
     "id": "mag10-5",
@@ -3502,7 +3716,9 @@
         "station": "Teen Batti / Malabar Hill",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?jain,temple,marble,carved,interior,malabar,hill",
+    "photo_query": "mumbai jain temple marble carved malabar hill"
   },
   {
     "id": "mag10-6",
@@ -3535,7 +3751,9 @@
         "station": "Churchgate",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?marine,drive,dawn,art,deco,buildings,sea,empty",
+    "photo_query": "mumbai marine drive dawn art deco queen necklace"
   },
   {
     "id": "mag10-7",
@@ -3568,7 +3786,9 @@
         "station": "Tardeo",
         "walk_min": 7
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?gujarati,snacks,pani,puri,tardeo,ceramic,bowl",
+    "photo_query": "mumbai gujarati snacks pani puri tardeo upscale"
   },
   {
     "id": "mag10-8",
@@ -3601,7 +3821,9 @@
         "station": "Walkeshwar Road",
         "walk_min": 8
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?banganga,tank,dawn,temple,ritual,bells,ancient",
+    "photo_query": "mumbai banganga tank dawn temple ancient ritual"
   },
   {
     "id": "mag10-9",
@@ -3634,6 +3856,8 @@
         "station": "Churchgate",
         "walk_min": 12
       }
-    ]
+    ],
+    "photo_url": "https://source.unsplash.com/featured/800x500/?mughlai,restaurant,fort,1974,rogan,josh,miniature",
+    "photo_query": "mumbai mughlai restaurant fort 1974 miniature paintings"
   }
 ]

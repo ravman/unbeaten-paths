@@ -29,7 +29,9 @@
       }
     ],
     "transport_str": "BTS Sukhumvit: Thong Lo (E6) (8 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,community,market,plants,brutalist",
+    "photo_query": "bangkok community market food"
   },
   {
     "id": "s2",
@@ -61,7 +63,9 @@
       }
     ],
     "transport_str": "MRT Blue: Thailand Cultural Centre (5 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,night,market,vintage,train,neon",
+    "photo_query": "bangkok night market vintage neon"
   },
   {
     "id": "s3",
@@ -98,7 +102,9 @@
       }
     ],
     "transport_str": "BTS Silom: Surasak (S4) (18 min walk) | Boat: Tha Sathon (Central Pier) (20 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,temple,ornate,gold,colourful",
+    "photo_query": "bangkok temple ornate gold"
   },
   {
     "id": "s4",
@@ -129,7 +135,9 @@
       }
     ],
     "transport_str": "BTS Sukhumvit: Asok (E4) (9 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,thai,restaurant,garden,quirky",
+    "photo_query": "bangkok thai restaurant quirky"
   },
   {
     "id": "s5",
@@ -166,7 +174,9 @@
       }
     ],
     "transport_str": "MRT Blue: Sam Yot (10 min walk) | Boat: Tha Phra Chan (12 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,street,food,chef,wok,fire",
+    "photo_query": "bangkok street food chef cooking fire"
   },
   {
     "id": "s6",
@@ -198,7 +208,9 @@
       }
     ],
     "transport_str": "Taxi / Grab only: No nearby transit",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,art,market,creative,airplane,warehouse",
+    "photo_query": "bangkok art market creative airplane"
   },
   {
     "id": "s7",
@@ -235,7 +247,9 @@
       }
     ],
     "transport_str": "Boat: Tha Tien Pier (5 min walk) | BTS Silom: Saphan Taksin (S6) (25 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thailand,canal,wooden,house,artist",
+    "photo_query": "thailand canal wooden house art"
   },
   {
     "id": "s8",
@@ -272,7 +286,9 @@
       }
     ],
     "transport_str": "MRT Blue: Sam Yot (8 min walk) | Boat: Tha Saphan Phut (6 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,canal,night,lights,market,walkway",
+    "photo_query": "bangkok canal night lights market"
   },
   {
     "id": "s9",
@@ -309,7 +325,9 @@
       }
     ],
     "transport_str": "BTS Silom: Surasak (S4) (12 min walk) | Boat: Tha Sathon (Central Pier) (14 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,teak,house,heritage,museum",
+    "photo_query": "bangkok teak house heritage museum"
   },
   {
     "id": "s10",
@@ -340,7 +358,9 @@
       }
     ],
     "transport_str": "BTS Sukhumvit: Ploen Chit (E2) (11 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,fine,dining,thai,cuisine,plating",
+    "photo_query": "bangkok fine dining thai cuisine elegant"
   },
   {
     "id": "s11",
@@ -377,7 +397,9 @@
       }
     ],
     "transport_str": "MRT Blue: Hua Lamphong (12 min walk) | Boat: Tha Ratchawong (7 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,chinatown,alley,colourful,street,art",
+    "photo_query": "bangkok chinatown alley street art"
   },
   {
     "id": "s12",
@@ -409,7 +431,9 @@
       }
     ],
     "transport_str": "BTS Silom: Chong Nonsi (S3) (8 min walk)",
-    "cityId": "bangkok"
+    "cityId": "bangkok",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,rooftop,bar,skyline,night,lights",
+    "photo_query": "bangkok rooftop bar skyline night"
   },
   {
     "id": "ag1-0",
@@ -446,7 +470,9 @@
         "walk_min": 9
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (14 min walk) | Boat: Tha Ratchawong (9 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (14 min walk) | Boat: Tha Ratchawong (9 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,craft,cocktail,bar,intimate,shophouse",
+    "photo_query": "bangkok craft cocktail bar intimate"
   },
   {
     "id": "ag1-1",
@@ -478,7 +504,9 @@
         "walk_min": 10
       }
     ],
-    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (10 min walk)"
+    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (10 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?whisky,bar,dark,wood,intimate,basement",
+    "photo_query": "bangkok speakeasy cocktail bar whisky"
   },
   {
     "id": "ag1-2",
@@ -510,7 +538,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ekkamai (E7) (8 min walk)"
+    "transport_str": "BTS Sukhumvit: Ekkamai (E7) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?gourmet,burger,restaurant,neon,sign",
+    "photo_query": "burger restaurant street ekkamai"
   },
   {
     "id": "ag1-3",
@@ -547,7 +577,9 @@
         "walk_min": 18
       }
     ],
-    "transport_str": "Boat: Tha Si Phraya (6 min walk) | BTS Silom: Saphan Taksin (S6) (18 min walk)"
+    "transport_str": "Boat: Tha Si Phraya (6 min walk) | BTS Silom: Saphan Taksin (S6) (18 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?tiki,bar,tropical,cocktail,neon,pink",
+    "photo_query": "bangkok tiki bar tropical cocktail"
   },
   {
     "id": "ag1-4",
@@ -579,7 +611,9 @@
         "walk_min": 9
       }
     ],
-    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (9 min walk)"
+    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (9 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?vinyl,record,store,coffee,turntable",
+    "photo_query": "vinyl record store cafe bangkok"
   },
   {
     "id": "ag1-5",
@@ -611,7 +645,9 @@
         "walk_min": 9
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ekkamai (E7) (9 min walk)"
+    "transport_str": "BTS Sukhumvit: Ekkamai (E7) (9 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?craft,beer,bar,industrial,garage,neon",
+    "photo_query": "craft beer bar garage bangkok"
   },
   {
     "id": "ag1-6",
@@ -643,7 +679,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ekkamai (E7) (7 min walk)"
+    "transport_str": "BTS Sukhumvit: Ekkamai (E7) (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?cafe,brunch,sourdough,coffee,morning",
+    "photo_query": "bangkok cafe brunch sourdough"
   },
   {
     "id": "ag1-7",
@@ -675,7 +713,9 @@
         "walk_min": 11
       }
     ],
-    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (11 min walk)"
+    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (11 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?gin,distillery,bottles,craft,tasting",
+    "photo_query": "gin distillery tasting room craft"
   },
   {
     "id": "ag1-8",
@@ -707,7 +747,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (7 min walk)"
+    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,street,food,night,alley,neon",
+    "photo_query": "bangkok street food night market soi"
   },
   {
     "id": "ag1-9",
@@ -739,7 +781,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ekkamai (E7) (8 min walk)"
+    "transport_str": "BTS Sukhumvit: Ekkamai (E7) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?craft,beer,tap,bar,terrace",
+    "photo_query": "craft beer bar terrace ekkamai"
   },
   {
     "id": "ag2-0",
@@ -771,7 +815,9 @@
         "walk_min": 3
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (3 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (3 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?chao,phraya,river,sunset,students,lanterns",
+    "photo_query": "bangkok chao phraya river sunset students"
   },
   {
     "id": "ag2-1",
@@ -803,7 +849,9 @@
         "walk_min": 4
       }
     ],
-    "transport_str": "Boat: Tha Tien Pier (4 min walk)"
+    "transport_str": "Boat: Tha Tien Pier (4 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?wat,arun,temple,river,dusk",
+    "photo_query": "wat arun temple river bangkok dusk"
   },
   {
     "id": "ag2-2",
@@ -835,7 +883,9 @@
         "walk_min": 2
       }
     ],
-    "transport_str": "Boat: Tha Tien Pier (2 min walk)"
+    "transport_str": "Boat: Tha Tien Pier (2 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,morning,market,vendors,chaos",
+    "photo_query": "bangkok morning market wat pho"
   },
   {
     "id": "ag2-3",
@@ -872,7 +922,9 @@
         "walk_min": 12
       }
     ],
-    "transport_str": "MRT Blue: Sam Yot (10 min walk) | Boat: Tha Chang (12 min walk)"
+    "transport_str": "MRT Blue: Sam Yot (10 min walk) | Boat: Tha Chang (12 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,temple,giant,swing,monks,supplies",
+    "photo_query": "bangkok temple giant swing monks market"
   },
   {
     "id": "ag2-4",
@@ -905,7 +957,9 @@
         "walk_min": 5
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (5 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (5 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thai,muslim,roti,stuffed,pancake,pan",
+    "photo_query": "bangkok muslim food roti stuffed pancake"
   },
   {
     "id": "ag2-5",
@@ -938,7 +992,9 @@
         "walk_min": 5
       }
     ],
-    "transport_str": "Boat: Tha Chang (5 min walk)"
+    "transport_str": "Boat: Tha Chang (5 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,canal,historic,wooden,shophouses",
+    "photo_query": "bangkok canal historic wooden houses"
   },
   {
     "id": "ag2-6",
@@ -971,7 +1027,9 @@
         "walk_min": 3
       }
     ],
-    "transport_str": "Boat: Tha Tien Pier (3 min walk)"
+    "transport_str": "Boat: Tha Tien Pier (3 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,oyster,omelette,wok,street,food",
+    "photo_query": "bangkok oyster omelette street food stall"
   },
   {
     "id": "ag2-7",
@@ -1003,7 +1061,9 @@
         "walk_min": 4
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (4 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (4 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?secondhand,bookshop,shelves,books,cafe",
+    "photo_query": "secondhand bookshop cafe reading"
   },
   {
     "id": "ag2-8",
@@ -1041,7 +1101,9 @@
         "walk_min": 14
       }
     ],
-    "transport_str": "Boat: Tha Chang (8 min walk) | MRT Blue: Sam Yot (14 min walk)"
+    "transport_str": "Boat: Tha Chang (8 min walk) | MRT Blue: Sam Yot (14 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,grand,palace,field,morning,mist",
+    "photo_query": "bangkok grand palace royal field dawn"
   },
   {
     "id": "ag2-9",
@@ -1073,7 +1135,9 @@
         "walk_min": 4
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (4 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (4 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?restaurant,wood,panelled,candlelit,dinner",
+    "photo_query": "bangkok thai restaurant wood panelled"
   },
   {
     "id": "ag3-0",
@@ -1111,7 +1175,9 @@
         "walk_min": 10
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (8 min walk) | Boat: Tha Ratchawong (10 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (8 min walk) | Boat: Tha Ratchawong (10 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,chinatown,street,food,dawn,curry,wok",
+    "photo_query": "bangkok chinatown street food dawn curry"
   },
   {
     "id": "ag3-1",
@@ -1149,7 +1215,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (11 min walk) | Boat: Tha Ratchawong (8 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (11 min walk) | Boat: Tha Ratchawong (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,noodle,soup,shophouse,dim,wonton",
+    "photo_query": "bangkok noodle soup shophouse wonton"
   },
   {
     "id": "ag3-2",
@@ -1187,7 +1255,9 @@
         "walk_min": 9
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (13 min walk) | Boat: Tha Ratchawong (9 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (13 min walk) | Boat: Tha Ratchawong (9 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?chinese,cocktail,bar,heritage,tiles,shophouse",
+    "photo_query": "bangkok chinese cocktail bar heritage tiles"
   },
   {
     "id": "ag3-3",
@@ -1225,7 +1295,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (9 min walk) | Boat: Tha Ratchawong (7 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (9 min walk) | Boat: Tha Ratchawong (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?chinese,herbal,medicine,shop,drawers,old",
+    "photo_query": "chinese herbal medicine shop bangkok old"
   },
   {
     "id": "ag3-4",
@@ -1263,7 +1335,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (13 min walk) | Boat: Tha Si Phraya (8 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (13 min walk) | Boat: Tha Si Phraya (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,chinatown,alley,murals,graffiti",
+    "photo_query": "bangkok chinatown alley murals street art"
   },
   {
     "id": "ag3-5",
@@ -1301,7 +1375,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (14 min walk) | Boat: Tha Si Phraya (7 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (14 min walk) | Boat: Tha Si Phraya (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?kopitiam,chinese,cafe,morning,kaya,toast",
+    "photo_query": "bangkok kopitiam chinese cafe morning coffee"
   },
   {
     "id": "ag3-6",
@@ -1339,7 +1415,9 @@
         "walk_min": 6
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (7 min walk) | Boat: Tha Ratchawong (6 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (7 min walk) | Boat: Tha Ratchawong (6 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?yaowarat,chinatown,night,food,stalls",
+    "photo_query": "bangkok yaowarat chinatown night food"
   },
   {
     "id": "ag3-7",
@@ -1377,7 +1455,9 @@
         "walk_min": 6
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (14 min walk) | Boat: Tha Si Phraya (6 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (14 min walk) | Boat: Tha Si Phraya (6 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?floating,boat,noodle,restaurant,pier,river",
+    "photo_query": "bangkok floating restaurant boat noodles pier"
   },
   {
     "id": "ag3-8",
@@ -1415,7 +1495,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (15 min walk) | Boat: Tha Si Phraya (8 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (15 min walk) | Boat: Tha Si Phraya (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?chinese,shrine,incense,smoke,taoist,community",
+    "photo_query": "bangkok chinese shrine incense taoist"
   },
   {
     "id": "ag3-9",
@@ -1453,7 +1535,9 @@
         "walk_min": 5
       }
     ],
-    "transport_str": "MRT Blue: Hua Lamphong (8 min walk) | Boat: Ratchawong Pier (5 min walk)"
+    "transport_str": "MRT Blue: Hua Lamphong (8 min walk) | Boat: Ratchawong Pier (5 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?dim,sum,chinese,breakfast,bamboo,steamer",
+    "photo_query": "bangkok dim sum chinese breakfast heritage"
   },
   {
     "id": "ag4-0",
@@ -1486,7 +1570,9 @@
         "walk_min": 3
       }
     ],
-    "transport_str": "Boat: Tha Tien Pier (3 min walk)"
+    "transport_str": "Boat: Tha Tien Pier (3 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?wat,arun,temple,river,view,sunset,terrace",
+    "photo_query": "bangkok wat arun river view terrace bar"
   },
   {
     "id": "ag4-1",
@@ -1524,7 +1610,9 @@
         "walk_min": 12
       }
     ],
-    "transport_str": "BTS Silom: Saphan Taksin (S6) (15 min walk) | Boat: Tha Sathon Central Pier (12 min walk)"
+    "transport_str": "BTS Silom: Saphan Taksin (S6) (15 min walk) | Boat: Tha Sathon Central Pier (12 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?floating,market,canal,boat,thailand,produce",
+    "photo_query": "thailand floating market canal boat"
   },
   {
     "id": "ag4-2",
@@ -1562,7 +1650,9 @@
         "walk_min": 16
       }
     ],
-    "transport_str": "Boat: Tha Si Phraya (5 min walk) | BTS Silom: Saphan Taksin (S6) (16 min walk)"
+    "transport_str": "Boat: Tha Si Phraya (5 min walk) | BTS Silom: Saphan Taksin (S6) (16 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,chao,phraya,river,panorama,hotel",
+    "photo_query": "bangkok chao phraya river view hotel bar"
   },
   {
     "id": "ag4-3",
@@ -1595,7 +1685,9 @@
         "walk_min": 1
       }
     ],
-    "transport_str": "Boat: Tha Chang (1 min walk)"
+    "transport_str": "Boat: Tha Chang (1 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,river,pier,ferry,monks,dawn,boats",
+    "photo_query": "bangkok river pier ferry monks dawn"
   },
   {
     "id": "ag4-4",
@@ -1628,7 +1720,9 @@
         "walk_min": 5
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (then shuttle) (5 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (then shuttle) (5 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,riverside,heritage,hotel,palace",
+    "photo_query": "bangkok riverside palace heritage hotel"
   },
   {
     "id": "ag4-5",
@@ -1662,7 +1756,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "Boat: Tha Ratchawong (cross-river) (8 min walk)"
+    "transport_str": "Boat: Tha Ratchawong (cross-river) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,thonburi,temple,riverside,evening,ceremony",
+    "photo_query": "bangkok temple thonburi riverside evening"
   },
   {
     "id": "ag4-6",
@@ -1700,7 +1796,9 @@
         "walk_min": 5
       }
     ],
-    "transport_str": "Canal Boat: Hua Chang Pier (2 min walk) | BTS Sukhumvit: Siam (CEN) (5 min walk)"
+    "transport_str": "Canal Boat: Hua Chang Pier (2 min walk) | BTS Sukhumvit: Siam (CEN) (5 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,canal,express,boat,crowded,commuter",
+    "photo_query": "bangkok canal express boat commuter"
   },
   {
     "id": "ag4-7",
@@ -1738,7 +1836,9 @@
         "walk_min": 15
       }
     ],
-    "transport_str": "Boat: Tha Si Phraya (7 min walk) | BTS Silom: Saphan Taksin (S6) (15 min walk)"
+    "transport_str": "Boat: Tha Si Phraya (7 min walk) | BTS Silom: Saphan Taksin (S6) (15 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?rooftop,jazz,bar,panoramic,city,view,night",
+    "photo_query": "bangkok rooftop jazz bar panorama"
   },
   {
     "id": "ag4-8",
@@ -1776,7 +1876,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Silom: Saphan Taksin (S6) then free shuttle (10 min walk) | Boat: Tha Sathon (free shuttle) (8 min walk)"
+    "transport_str": "BTS Silom: Saphan Taksin (S6) then free shuttle (10 min walk) | Boat: Tha Sathon (free shuttle) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thai,wet,market,traditional,vendors,covered",
+    "photo_query": "thailand wet market traditional vendors"
   },
   {
     "id": "ag4-9",
@@ -1814,7 +1916,9 @@
         "walk_min": 15
       }
     ],
-    "transport_str": "Boat: Tha Saphan Phut (3 min walk) | MRT Blue: Sam Yot (15 min walk)"
+    "transport_str": "Boat: Tha Saphan Phut (3 min walk) | MRT Blue: Sam Yot (15 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,bridge,night,market,river,lights",
+    "photo_query": "bangkok night market river bridge"
   },
   {
     "id": "ag5-0",
@@ -1847,7 +1951,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ari (N5) (7 min walk)"
+    "transport_str": "BTS Sukhumvit: Ari (N5) (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?wine,bar,natural,wine,bottles,shelves",
+    "photo_query": "wine bar natural wine bangkok ari"
   },
   {
     "id": "ag5-1",
@@ -1880,7 +1986,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ari (N5) (8 min walk)"
+    "transport_str": "BTS Sukhumvit: Ari (N5) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?cafe,brunch,eggs,avocado,toast,morning",
+    "photo_query": "bangkok brunch cafe eggs avocado toast"
   },
   {
     "id": "ag5-2",
@@ -1913,7 +2021,9 @@
         "walk_min": 9
       }
     ],
-    "transport_str": "BTS Sukhumvit: Saphan Khwai (N6) (9 min walk)"
+    "transport_str": "BTS Sukhumvit: Saphan Khwai (N6) (9 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bookshop,reading,room,quiet,cosy,shelves",
+    "photo_query": "bangkok bookshop reading room quiet"
   },
   {
     "id": "ag5-3",
@@ -1946,7 +2056,9 @@
         "walk_min": 6
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ari (N5) (6 min walk)"
+    "transport_str": "BTS Sukhumvit: Ari (N5) (6 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thai,cooking,class,ingredients,spices,kitchen",
+    "photo_query": "thai cooking class home kitchen northern"
   },
   {
     "id": "ag5-4",
@@ -1979,7 +2091,9 @@
         "walk_min": 9
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ari (N5) (9 min walk)"
+    "transport_str": "BTS Sukhumvit: Ari (N5) (9 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?garden,restaurant,mango,tree,outdoor,dining",
+    "photo_query": "bangkok garden restaurant mango tree"
   },
   {
     "id": "ag5-5",
@@ -2012,7 +2126,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ari (N5) (7 min walk)"
+    "transport_str": "BTS Sukhumvit: Ari (N5) (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?vinyl,records,shop,bins,music,browsing",
+    "photo_query": "vinyl records shop music bangkok"
   },
   {
     "id": "ag5-6",
@@ -2045,7 +2161,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ari (N5) (8 min walk)"
+    "transport_str": "BTS Sukhumvit: Ari (N5) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?ice,cream,artisan,colourful,scoops,shop",
+    "photo_query": "artisan ice cream shop bangkok colourful"
   },
   {
     "id": "ag5-7",
@@ -2078,7 +2196,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Sukhumvit: Saphan Khwai (N6) (8 min walk)"
+    "transport_str": "BTS Sukhumvit: Saphan Khwai (N6) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?tasting,menu,fine,dining,plated,elegant",
+    "photo_query": "bangkok tasting menu fine dining intimate"
   },
   {
     "id": "ag5-8",
@@ -2111,7 +2231,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "BTS Sukhumvit: Saphan Khwai (N6) (7 min walk)"
+    "transport_str": "BTS Sukhumvit: Saphan Khwai (N6) (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?craft,beer,brewery,taproom,barrels",
+    "photo_query": "craft beer brewery taproom bangkok"
   },
   {
     "id": "ag5-9",
@@ -2144,7 +2266,9 @@
         "walk_min": 10
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ari (N5) (10 min walk)"
+    "transport_str": "BTS Sukhumvit: Ari (N5) (10 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?farmers,market,organic,vegetables,saturday,morning",
+    "photo_query": "farmers market organic produce saturday"
   },
   {
     "id": "ag6-0",
@@ -2178,7 +2302,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "Boat: Klong Toei Pier (then ferry) (8 min walk)"
+    "transport_str": "Boat: Klong Toei Pier (then ferry) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thailand,green,jungle,bicycle,cycling,path",
+    "photo_query": "bangkok green lung bicycle cycling jungle"
   },
   {
     "id": "ag6-1",
@@ -2211,7 +2337,9 @@
         "walk_min": 10
       }
     ],
-    "transport_str": "Boat: Wang Lang Pier (10 min walk)"
+    "transport_str": "Boat: Wang Lang Pier (10 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thailand,temple,ancient,barge,river",
+    "photo_query": "thailand temple royal barge ancient"
   },
   {
     "id": "ag6-2",
@@ -2245,7 +2373,9 @@
         "walk_min": 5
       }
     ],
-    "transport_str": "Boat: Nonthaburi Pier (5 min walk)"
+    "transport_str": "Boat: Nonthaburi Pier (5 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thailand,durian,market,dawn,tropical,green",
+    "photo_query": "thailand durian market dawn tropical fruit"
   },
   {
     "id": "ag6-3",
@@ -2278,7 +2408,9 @@
         "walk_min": 4
       }
     ],
-    "transport_str": "Boat: Tha Chang (cross-river ferry) (4 min walk)"
+    "transport_str": "Boat: Tha Chang (cross-river ferry) (4 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,riverside,temple,bell,tower,ancient",
+    "photo_query": "bangkok temple bell tower riverside historic"
   },
   {
     "id": "ag6-4",
@@ -2311,7 +2443,9 @@
         "walk_min": 3
       }
     ],
-    "transport_str": "Boat: Bangkok Noi Pier (3 min walk)"
+    "transport_str": "Boat: Bangkok Noi Pier (3 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,canal,longtail,boat,slow,village",
+    "photo_query": "bangkok canal longtail boat spirit houses"
   },
   {
     "id": "ag6-5",
@@ -2344,7 +2478,9 @@
         "walk_min": 0
       }
     ],
-    "transport_str": "Taxi / Grab only: No direct transit — 30 min from Victory Monument"
+    "transport_str": "Taxi / Grab only: No direct transit — 30 min from Victory Monument",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?floating,market,canal,wooden,boats,weekend",
+    "photo_query": "thailand floating market canal weekend"
   },
   {
     "id": "ag6-6",
@@ -2377,7 +2513,9 @@
         "walk_min": 0
       }
     ],
-    "transport_str": "Taxi / Grab only: No BTS/MRT — take taxi from Bangkok Noi"
+    "transport_str": "Taxi / Grab only: No BTS/MRT — take taxi from Bangkok Noi",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thailand,canal,food,boat,workers,morning",
+    "photo_query": "thailand canal food boat morning workers"
   },
   {
     "id": "ag6-7",
@@ -2410,7 +2548,9 @@
         "walk_min": 10
       }
     ],
-    "transport_str": "Boat: Tha Ratchawong (cross-river) (10 min walk)"
+    "transport_str": "Boat: Tha Ratchawong (cross-river) (10 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thailand,silk,weaving,handloom,traditional",
+    "photo_query": "thailand silk weaving handloom community"
   },
   {
     "id": "ag6-8",
@@ -2443,7 +2583,9 @@
         "walk_min": 20
       }
     ],
-    "transport_str": "Boat: Klong Toei Pier + ferry + bicycle (20 min walk)"
+    "transport_str": "Boat: Klong Toei Pier + ferry + bicycle (20 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?garden,restaurant,canal,cooking,fire,fish",
+    "photo_query": "bangkok garden restaurant canal fish cooking"
   },
   {
     "id": "ag6-9",
@@ -2476,7 +2618,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "Boat: Prannok Pier / Wang Lang (8 min walk)"
+    "transport_str": "Boat: Prannok Pier / Wang Lang (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?vintage,medical,museum,jars,specimens",
+    "photo_query": "hospital museum medical history dark"
   },
   {
     "id": "ag7-0",
@@ -2509,7 +2653,9 @@
         "walk_min": 9
       }
     ],
-    "transport_str": "MRT Blue: Thailand Cultural Centre (9 min walk)"
+    "transport_str": "MRT Blue: Thailand Cultural Centre (9 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?muay,thai,training,gym,fighters,gloves",
+    "photo_query": "muay thai training gym thailand fighters"
   },
   {
     "id": "ag7-1",
@@ -2547,7 +2693,9 @@
         "walk_min": 0
       }
     ],
-    "transport_str": "MRT Blue: Lat Phrao (no close stop) (25 min walk) | Taxi from Lat Phrao: Lat Phrao MRT"
+    "transport_str": "MRT Blue: Lat Phrao (no close stop) (25 min walk) | Taxi from Lat Phrao: Lat Phrao MRT",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?street,food,carpark,vendors,evening,thai",
+    "photo_query": "bangkok street food carpark vendors evening"
   },
   {
     "id": "ag7-2",
@@ -2581,7 +2729,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (8 min walk)"
+    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?vinyl,bar,music,dj,mixing,speakers",
+    "photo_query": "bangkok vinyl bar thai music molam dj"
   },
   {
     "id": "ag7-3",
@@ -2614,7 +2764,9 @@
         "walk_min": 0
       }
     ],
-    "transport_str": "Taxi / Grab only: No nearby transit"
+    "transport_str": "Taxi / Grab only: No nearby transit",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?wholesale,market,fish,fresh,dawn,ice",
+    "photo_query": "thailand wholesale market fresh fish dawn"
   },
   {
     "id": "ag7-4",
@@ -2647,7 +2799,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "MRT Blue: Thailand Cultural Centre (8 min walk)"
+    "transport_str": "MRT Blue: Thailand Cultural Centre (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?craft,beer,bar,taps,lager,pint,glasses",
+    "photo_query": "craft beer bar taps bangkok"
   },
   {
     "id": "ag7-5",
@@ -2680,7 +2834,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "MRT Blue: Thailand Cultural Centre (7 min walk)"
+    "transport_str": "MRT Blue: Thailand Cultural Centre (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?night,market,neon,lights,local,stalls",
+    "photo_query": "bangkok night market local neon lights"
   },
   {
     "id": "ag7-6",
@@ -2713,7 +2869,9 @@
         "walk_min": 11
       }
     ],
-    "transport_str": "MRT Blue: Thailand Cultural Centre (11 min walk)"
+    "transport_str": "MRT Blue: Thailand Cultural Centre (11 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bespoke,tailor,suit,fabric,measuring",
+    "photo_query": "bespoke tailor suit bangkok shophouse"
   },
   {
     "id": "ag7-7",
@@ -2746,7 +2904,9 @@
         "walk_min": 5
       }
     ],
-    "transport_str": "MRT Blue: Thailand Cultural Centre (5 min walk)"
+    "transport_str": "MRT Blue: Thailand Cultural Centre (5 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thai,classical,dance,performance,costume",
+    "photo_query": "thai classical dance khon performance"
   },
   {
     "id": "ag7-8",
@@ -2779,7 +2939,9 @@
         "walk_min": 10
       }
     ],
-    "transport_str": "BTS Silom: Chong Nonsi (S3) (10 min walk)"
+    "transport_str": "BTS Silom: Chong Nonsi (S3) (10 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?southern,thai,food,chilli,authentic,paste",
+    "photo_query": "southern thai food spicy authentic restaurant"
   },
   {
     "id": "ag7-9",
@@ -2817,7 +2979,9 @@
         "walk_min": 11
       }
     ],
-    "transport_str": "MRT Blue: Sam Yot (9 min walk) | Boat: Tha Saphan Phut (11 min walk)"
+    "transport_str": "MRT Blue: Sam Yot (9 min walk) | Boat: Tha Saphan Phut (11 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?pad,thai,wok,street,food,night,cooking",
+    "photo_query": "bangkok pad thai street food night"
   },
   {
     "id": "ag8-0",
@@ -2850,7 +3014,9 @@
         "walk_min": 15
       }
     ],
-    "transport_str": "BTS Sukhumvit: Phrom Phong (E5) (15 min walk)"
+    "transport_str": "BTS Sukhumvit: Phrom Phong (E5) (15 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?jazz,bar,basement,intimate,music,dark",
+    "photo_query": "bangkok jazz bar basement intimate dark"
   },
   {
     "id": "ag8-1",
@@ -2883,7 +3049,9 @@
         "walk_min": 9
       }
     ],
-    "transport_str": "BTS Silom: Chong Nonsi (S3) (9 min walk)"
+    "transport_str": "BTS Silom: Chong Nonsi (S3) (9 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?cocktail,bar,factory,industrial,converted",
+    "photo_query": "bangkok cocktail bar factory converted industrial"
   },
   {
     "id": "ag8-2",
@@ -2917,7 +3085,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "BTS Sukhumvit: Siam (CEN) (7 min walk)"
+    "transport_str": "BTS Sukhumvit: Siam (CEN) (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?papaya,salad,restaurant,thai,green,mango",
+    "photo_query": "thai papaya salad restaurant som tam"
   },
   {
     "id": "ag8-3",
@@ -2955,7 +3125,9 @@
         "walk_min": 11
       }
     ],
-    "transport_str": "BTS Sukhumvit: Asok (E4) (12 min walk) | MRT Blue: Sukhumvit (11 min walk)"
+    "transport_str": "BTS Sukhumvit: Asok (E4) (12 min walk) | MRT Blue: Sukhumvit (11 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thai,royal,cuisine,teak,house,elegant",
+    "photo_query": "thai royal cuisine teak house elegant"
   },
   {
     "id": "ag8-4",
@@ -2988,7 +3160,9 @@
         "walk_min": 11
       }
     ],
-    "transport_str": "BTS Silom: Chong Nonsi (S3) (11 min walk)"
+    "transport_str": "BTS Silom: Chong Nonsi (S3) (11 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?intimate,cocktail,bar,small,batters",
+    "photo_query": "bangkok intimate cocktail bar eight seats"
   },
   {
     "id": "ag8-5",
@@ -3021,7 +3195,9 @@
         "walk_min": 6
       }
     ],
-    "transport_str": "BTS Silom: Sala Daeng (S2) (6 min walk)"
+    "transport_str": "BTS Silom: Sala Daeng (S2) (6 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?courtyard,market,evening,food,stalls",
+    "photo_query": "bangkok courtyard market evening food"
   },
   {
     "id": "ag8-6",
@@ -3054,7 +3230,9 @@
         "walk_min": 10
       }
     ],
-    "transport_str": "BTS Silom: Chong Nonsi (S3) (10 min walk)"
+    "transport_str": "BTS Silom: Chong Nonsi (S3) (10 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?hotel,poolside,bar,terrace,night,city",
+    "photo_query": "bangkok hotel poolside bar terrace"
   },
   {
     "id": "ag8-7",
@@ -3093,7 +3271,9 @@
         "walk_min": 14
       }
     ],
-    "transport_str": "Boat: Tha Si Phraya (7 min walk) | BTS Silom: Saphan Taksin (S6) (14 min walk)"
+    "transport_str": "Boat: Tha Si Phraya (7 min walk) | BTS Silom: Saphan Taksin (S6) (14 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?covered,market,century,old,morning,cast,iron",
+    "photo_query": "bangkok covered market century old morning"
   },
   {
     "id": "ag8-8",
@@ -3126,7 +3306,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Silom: Sala Daeng (S2) (8 min walk)"
+    "transport_str": "BTS Silom: Sala Daeng (S2) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?hindu,temple,south,indian,flowers,colourful",
+    "photo_query": "bangkok hindu temple south indian flowers"
   },
   {
     "id": "ag8-9",
@@ -3159,7 +3341,9 @@
         "walk_min": 10
       }
     ],
-    "transport_str": "BTS Silom: Chong Nonsi (S3) (10 min walk)"
+    "transport_str": "BTS Silom: Chong Nonsi (S3) (10 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?private,dining,home,restaurant,intimate",
+    "photo_query": "bangkok private dining home restaurant elegant"
   },
   {
     "id": "ag9-0",
@@ -3192,7 +3376,9 @@
         "walk_min": 5
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (5 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (5 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bookshop,bar,wine,books,shelves,reading",
+    "photo_query": "bookshop bar wine books reading"
   },
   {
     "id": "ag9-1",
@@ -3225,7 +3411,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (7 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?folk,music,bar,live,acoustic,guitar,jam",
+    "photo_query": "bangkok folk music bar live jam"
   },
   {
     "id": "ag9-2",
@@ -3258,7 +3446,9 @@
         "walk_min": 6
       }
     ],
-    "transport_str": "Boat: Tha Chang (6 min walk)"
+    "transport_str": "Boat: Tha Chang (6 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?university,canteen,students,thai,food,tables",
+    "photo_query": "university canteen students thai food"
   },
   {
     "id": "ag9-3",
@@ -3292,7 +3482,9 @@
         "walk_min": 4
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (4 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (4 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?fort,riverside,sunset,students,park,orange,sky",
+    "photo_query": "bangkok fort riverside park students sunset"
   },
   {
     "id": "ag9-4",
@@ -3325,7 +3517,9 @@
         "walk_min": 6
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (6 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (6 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?street,art,murals,walking,neighbourhood",
+    "photo_query": "bangkok street art murals walking"
   },
   {
     "id": "ag9-5",
@@ -3358,7 +3552,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (8 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?late,night,rice,porridge,workers,broth,bowl",
+    "photo_query": "bangkok late night rice porridge workers"
   },
   {
     "id": "ag9-6",
@@ -3396,7 +3592,9 @@
         "walk_min": 14
       }
     ],
-    "transport_str": "Boat: Tha Chang (9 min walk) | MRT Blue: Sam Yot (14 min walk)"
+    "transport_str": "Boat: Tha Chang (9 min walk) | MRT Blue: Sam Yot (14 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thai,puppet,marionette,traditional,silk",
+    "photo_query": "thai puppet marionette traditional performance"
   },
   {
     "id": "ag9-7",
@@ -3429,7 +3627,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (8 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?khao,san,road,empty,quiet,morning,coffee",
+    "photo_query": "bangkok khao san road quiet morning"
   },
   {
     "id": "ag9-8",
@@ -3462,7 +3662,9 @@
         "walk_min": 5
       }
     ],
-    "transport_str": "Boat: Tha Phan Fa (5 min walk)"
+    "transport_str": "Boat: Tha Phan Fa (5 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?monument,night,light,youth,crowd,city",
+    "photo_query": "bangkok democracy monument night youth"
   },
   {
     "id": "ag9-9",
@@ -3495,7 +3697,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "Boat: Phra Arthit Pier (7 min walk)"
+    "transport_str": "Boat: Phra Arthit Pier (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?community,kitchen,cooking,social,enterprise",
+    "photo_query": "bangkok community kitchen social enterprise"
   },
   {
     "id": "ag10-0",
@@ -3528,7 +3732,9 @@
         "walk_min": 9
       }
     ],
-    "transport_str": "BTS Sukhumvit: Nana (E3) (9 min walk)"
+    "transport_str": "BTS Sukhumvit: Nana (E3) (9 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?cocktail,bar,rare,spirits,bottles,shelves",
+    "photo_query": "cocktail bar intimate rare spirits bottles"
   },
   {
     "id": "ag10-1",
@@ -3561,7 +3767,9 @@
         "walk_min": 7
       }
     ],
-    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (7 min walk)"
+    "transport_str": "BTS Sukhumvit: Thong Lo (E6) (7 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?thai,home,cooking,family,recipe,restaurant",
+    "photo_query": "bangkok thai home cooking family restaurant"
   },
   {
     "id": "ag10-2",
@@ -3599,7 +3807,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Sukhumvit: Asok (E4) (8 min walk) | MRT Blue: Sukhumvit (8 min walk)"
+    "transport_str": "BTS Sukhumvit: Asok (E4) (8 min walk) | MRT Blue: Sukhumvit (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?record,bar,vinyl,speakers,music,dark",
+    "photo_query": "record bar vinyl music speakers sound"
   },
   {
     "id": "ag10-3",
@@ -3637,7 +3847,9 @@
         "walk_min": 9
       }
     ],
-    "transport_str": "BTS Sukhumvit: Asok (E4) (10 min walk) | MRT Blue: Sukhumvit (9 min walk)"
+    "transport_str": "BTS Sukhumvit: Asok (E4) (10 min walk) | MRT Blue: Sukhumvit (9 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?tropical,fruit,market,midnight,mango,durian",
+    "photo_query": "bangkok tropical fruit market midnight durian"
   },
   {
     "id": "ag10-4",
@@ -3670,7 +3882,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Silom: Chong Nonsi (S3) (8 min walk)"
+    "transport_str": "BTS Silom: Chong Nonsi (S3) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?luxury,hotel,bar,thai,cocktails,garden",
+    "photo_query": "bangkok luxury hotel bar thai cocktails"
   },
   {
     "id": "ag10-5",
@@ -3703,7 +3917,9 @@
         "walk_min": 3
       }
     ],
-    "transport_str": "BTS Sukhumvit: Phrom Phong (E5) (3 min walk)"
+    "transport_str": "BTS Sukhumvit: Phrom Phong (E5) (3 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?food,court,mall,isan,thai,varieties",
+    "photo_query": "bangkok food court mall isan thai"
   },
   {
     "id": "ag10-6",
@@ -3736,7 +3952,9 @@
         "walk_min": 6
       }
     ],
-    "transport_str": "BTS Sukhumvit: Phrom Phong (E5) (6 min walk)"
+    "transport_str": "BTS Sukhumvit: Phrom Phong (E5) (6 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?fermented,food,restaurant,unique,jars",
+    "photo_query": "fermented food restaurant thai fish paste"
   },
   {
     "id": "ag10-7",
@@ -3769,7 +3987,9 @@
         "walk_min": 8
       }
     ],
-    "transport_str": "BTS Sukhumvit: Nana (E3) (8 min walk)"
+    "transport_str": "BTS Sukhumvit: Nana (E3) (8 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?rooftop,bar,peruvian,japanese,view,skyline",
+    "photo_query": "bangkok rooftop bar peruvian japanese nikkei"
   },
   {
     "id": "ag10-8",
@@ -3802,7 +4022,9 @@
         "walk_min": 14
       }
     ],
-    "transport_str": "BTS Sukhumvit: Ploen Chit (E2) (14 min walk)"
+    "transport_str": "BTS Sukhumvit: Ploen Chit (E2) (14 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?converted,house,gallery,garden,art",
+    "photo_query": "bangkok converted house art gallery garden"
   },
   {
     "id": "ag10-9",
@@ -3835,6 +4057,8 @@
         "walk_min": 6
       }
     ],
-    "transport_str": "BTS Sukhumvit: Nana (E3) (6 min walk)"
+    "transport_str": "BTS Sukhumvit: Nana (E3) (6 min walk)",
+    "photo_url": "https://source.unsplash.com/featured/800x500/?bangkok,halal,muslim,food,banana,leaf",
+    "photo_query": "mumbai muslim biryani banana leaf restaurant"
   }
 ]
