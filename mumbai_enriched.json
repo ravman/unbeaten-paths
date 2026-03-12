@@ -1,0 +1,3639 @@
+[
+  {
+    "id": "ms1",
+    "cityId": "mumbai",
+    "name": "Irani Café Leopold",
+    "type": "restaurant",
+    "neighborhood": "Colaba",
+    "description": "One of Mumbai's last surviving Irani cafés, open since 1871. Marble-topped tables, bentwood chairs, faded mirrors, and bun maska that hasn't changed in a century. The staff have been here longer than most of the furniture.",
+    "vibe": 8.9,
+    "localLove": 9.1,
+    "uniqueness": 9.3,
+    "tags": [
+      "irani cafe",
+      "bun maska",
+      "1871",
+      "heritage",
+      "colaba"
+    ],
+    "tip": "Order the chai and bun maska. Come on a weekday morning when the regulars hold court.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 18.922,
+    "lng": 72.8316,
+    "maps_url": "https://www.google.com/maps?q=18.9220,72.8316",
+    "transport": [
+      {
+        "line": "CST / Local Train",
+        "station": "Churchgate",
+        "walk_min": 18
+      },
+      {
+        "line": "Bus",
+        "station": "Colaba Causeway",
+        "walk_min": 3
+      }
+    ]
+  },
+  {
+    "id": "ms2",
+    "cityId": "mumbai",
+    "name": "Mahim Causeway Fish Market",
+    "type": "market",
+    "neighborhood": "Mahim",
+    "description": "A pre-dawn wet market where Koli fishing community boats unload directly onto the causeway. Pomfret, surmai, Bombay duck — sorted, bargained, and sold in a beautiful chaos of Tamil, Marathi, and Konkani.",
+    "vibe": 9.2,
+    "localLove": 9.8,
+    "uniqueness": 9.0,
+    "tags": [
+      "fish market",
+      "koli community",
+      "dawn",
+      "causeway",
+      "local trade"
+    ],
+    "tip": "Arrive by 5:30am. Bring cash. The pomfret here is the freshest in the city — cheaper than Crawford Market.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 19.0395,
+    "lng": 72.8412,
+    "maps_url": "https://www.google.com/maps?q=19.0395,72.8412",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Mahim",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "ms3",
+    "cityId": "mumbai",
+    "name": "Chor Bazaar Antique Lane",
+    "type": "market",
+    "neighborhood": "Bhendi Bazaar / Mutton Street",
+    "description": "Mumbai's oldest flea market, Mutton Street in particular, crammed with colonial furniture, gramophones, brass Ganesh figurines, vintage Bollywood posters, and objects whose provenance is best not interrogated.",
+    "vibe": 9.0,
+    "localLove": 8.7,
+    "uniqueness": 9.1,
+    "tags": [
+      "antiques",
+      "flea market",
+      "colonial",
+      "bollywood posters",
+      "chor bazaar"
+    ],
+    "tip": "Friday is best when new stock appears. The deeper you walk into the lanes, the better the finds. Bargain hard.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 18.9603,
+    "lng": 72.831,
+    "maps_url": "https://www.google.com/maps?q=18.9603,72.8310",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 9
+      }
+    ]
+  },
+  {
+    "id": "ms4",
+    "cityId": "mumbai",
+    "name": "Khao Gully, Vile Parle",
+    "type": "market",
+    "neighborhood": "Vile Parle East",
+    "description": "A narrow lane that transforms into a food corridor after 6pm — 40 stalls selling bhel, pav bhaji, kebabs, Chinese-Indian, and Punjabi street food. The mix of Gujarati and Punjabi vendors means every second stall is an argument about whose food is better.",
+    "vibe": 8.7,
+    "localLove": 9.5,
+    "uniqueness": 8.0,
+    "tags": [
+      "street food",
+      "bhel",
+      "pav bhaji",
+      "evening",
+      "vile parle"
+    ],
+    "tip": "Best after 7:30pm. The pav bhaji at stall 8 has a 45-year-old recipe. The bhel near the corner is the one.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 19.099,
+    "lng": 72.8497,
+    "maps_url": "https://www.google.com/maps?q=19.0990,72.8497",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Vile Parle",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "ms5",
+    "cityId": "mumbai",
+    "name": "Elephanta Caves Ferry",
+    "type": "experience",
+    "neighborhood": "Gharapuri Island",
+    "description": "A 1-hour ferry from Gateway of India to an island with 6th-century rock-cut Shiva temples. The ferry itself — shared with office workers, pilgrims, and tourists — is half the experience. Arrive early to have the cave to yourself before tour groups.",
+    "vibe": 9.5,
+    "localLove": 8.2,
+    "uniqueness": 9.4,
+    "tags": [
+      "caves",
+      "ferry",
+      "6th century",
+      "shiva temples",
+      "island"
+    ],
+    "tip": "Take the 9am ferry, not the first one. Walk past the souvenir stalls to the hilltop temples — most people turn back at the main cave.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 18.9633,
+    "lng": 72.9315,
+    "maps_url": "https://www.google.com/maps?q=18.9633,72.9315",
+    "transport": [
+      {
+        "line": "Ferry",
+        "station": "Gateway of India",
+        "walk_min": 2
+      }
+    ]
+  },
+  {
+    "id": "ms6",
+    "cityId": "mumbai",
+    "name": "Mohammed Ali Road After Dark",
+    "type": "market",
+    "neighborhood": "Mohammed Ali Road",
+    "description": "During Ramzan and on weekends year-round, this mile-long strip becomes Mumbai's greatest late-night food street. Nihari, seekh kebabs, malpua, phirni in terracotta bowls, and cauldrons of biryani served from stalls that have fed the city for generations.",
+    "vibe": 9.6,
+    "localLove": 9.7,
+    "uniqueness": 8.9,
+    "tags": [
+      "nihari",
+      "kebabs",
+      "ramzan",
+      "late night",
+      "mughlai"
+    ],
+    "tip": "Come after 11pm. The Suleiman Usman Mithaiwala malpua is the thing. Noor Mohammadi Hotel for nihari — order the trotters.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 18.9603,
+    "lng": 72.8352,
+    "maps_url": "https://www.google.com/maps?q=18.9603,72.8352",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 11
+      },
+      {
+        "line": "Bus",
+        "station": "Mohammed Ali Road",
+        "walk_min": 3
+      }
+    ]
+  },
+  {
+    "id": "ms7",
+    "cityId": "mumbai",
+    "name": "Banganga Tank at Dawn",
+    "type": "experience",
+    "neighborhood": "Malabar Hill",
+    "description": "A sacred freshwater tank on Malabar Hill surrounded by temples, claimed to be 1,800 years old. At dawn, priests perform rituals while pigeons wheel overhead and local residents do their morning walk. Absolute silence inside despite being inside a city of 22 million.",
+    "vibe": 9.4,
+    "localLove": 9.2,
+    "uniqueness": 9.5,
+    "tags": [
+      "sacred tank",
+      "dawn",
+      "temples",
+      "malabar hill",
+      "1800 years"
+    ],
+    "tip": "Walk down from the Walkeshwar Road entrance at sunrise. The resident priests don't expect visitors and will answer questions if you ask respectfully.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 18.9519,
+    "lng": 72.7989,
+    "maps_url": "https://www.google.com/maps?q=18.9519,72.7989",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Walkeshwar Road",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "ms8",
+    "cityId": "mumbai",
+    "name": "Sassoon Docks at Sunrise",
+    "type": "experience",
+    "neighborhood": "Colaba / Cuffe Parade",
+    "description": "Mumbai's oldest working docks where the night's catch arrives before dawn. Fishing boats unload while workers sort ice and fish in the deep blue light. The smell is extraordinary. The chaos is choreographed. Photographers come here obsessively.",
+    "vibe": 9.3,
+    "localLove": 9.6,
+    "uniqueness": 9.2,
+    "tags": [
+      "fishing docks",
+      "sunrise",
+      "koli",
+      "photography",
+      "raw"
+    ],
+    "tip": "Arrive at 5am before the fish market opens properly. Ask before photographing — the workers are subjects, not attractions.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 18.9133,
+    "lng": 72.823,
+    "maps_url": "https://www.google.com/maps?q=18.9133,72.8230",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Cuffe Parade / Sassoon Dock",
+        "walk_min": 5
+      }
+    ]
+  },
+  {
+    "id": "ms9",
+    "cityId": "mumbai",
+    "name": "Khotachiwadi Heritage Village",
+    "type": "experience",
+    "neighborhood": "Girgaon / Gaiwadi",
+    "description": "A living heritage precinct of Portuguese-era wooden cottages in the middle of dense Girgaon. 28 homes, most owned by the same families for generations, with bougainvillea overhanging their balconies and cats sleeping on every step. The contrast with the streets 50 metres away is startling.",
+    "vibe": 9.5,
+    "localLove": 9.0,
+    "uniqueness": 9.8,
+    "tags": [
+      "portuguese cottages",
+      "living heritage",
+      "hidden village",
+      "girgaon",
+      "bougainvillea"
+    ],
+    "tip": "Enter from Janmabhoomi Marg lane. Walk quietly — people live here. The corner cottage at the end has been painted by generations of art students.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 18.954,
+    "lng": 72.8165,
+    "maps_url": "https://www.google.com/maps?q=18.9540,72.8165",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Charni Road",
+        "walk_min": 12
+      }
+    ]
+  },
+  {
+    "id": "ms10",
+    "cityId": "mumbai",
+    "name": "Dharavi Pottery Colony",
+    "type": "experience",
+    "neighborhood": "Dharavi",
+    "description": "The Kumbharwada quarter of Dharavi where the Kumbhar community has been throwing pots for 250 years. The entire street is a working kiln — damp clay, wood smoke, the rhythm of wheels. Potters sell direct. Come in morning when the firing is happening.",
+    "vibe": 8.8,
+    "localLove": 9.3,
+    "uniqueness": 9.6,
+    "tags": [
+      "pottery",
+      "kumbhar community",
+      "250 years",
+      "dharavi",
+      "kiln"
+    ],
+    "tip": "Take an auto to Kumbharwada, Dharavi. Morning 8-11am best. Buy direct from makers — no markup.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 19.0419,
+    "lng": 72.854,
+    "maps_url": "https://www.google.com/maps?q=19.0419,72.8540",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sion",
+        "walk_min": 18
+      },
+      {
+        "line": "Metro Line 1",
+        "station": "Matunga Road Metro",
+        "walk_min": 15
+      }
+    ]
+  },
+  {
+    "id": "ms11",
+    "cityId": "mumbai",
+    "name": "Versova Beach Morning",
+    "type": "experience",
+    "neighborhood": "Versova / Andheri West",
+    "description": "Before the day heats up, Versova beach belongs to the Koli fishing village that pre-dates Mumbai. Boats painted in bright colours, women mending nets, the smell of drying fish. By 9am it's tourists — be there at 6.",
+    "vibe": 8.9,
+    "localLove": 9.4,
+    "uniqueness": 8.6,
+    "tags": [
+      "fishing village",
+      "koli",
+      "dawn beach",
+      "nets",
+      "boats"
+    ],
+    "tip": "Walk to the northern end past the fishing village rather than the tourist beach. The tea stall by the boat repair yard opens at 6am.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 19.1165,
+    "lng": 72.8108,
+    "maps_url": "https://www.google.com/maps?q=19.1165,72.8108",
+    "transport": [
+      {
+        "line": "Metro Line 1",
+        "station": "Versova",
+        "walk_min": 12
+      }
+    ]
+  },
+  {
+    "id": "ms12",
+    "cityId": "mumbai",
+    "name": "Pali Village Café, Bandra",
+    "type": "restaurant",
+    "neighborhood": "Bandra West",
+    "description": "A century-old East Indian community home converted into a café that still feels like someone's living room. Thali specials change daily, the sorpotel is made to a family recipe, and the coconut feni is served without ceremony.",
+    "vibe": 8.7,
+    "localLove": 9.1,
+    "uniqueness": 8.8,
+    "tags": [
+      "east indian community",
+      "sorpotel",
+      "feni",
+      "bandra",
+      "converted home"
+    ],
+    "tip": "The Sunday East Indian thali is the reason to visit. Book — it fills up.",
+    "status": "approved",
+    "agentIcon": "SEED",
+    "discoveredBy": "Original",
+    "lat": 19.058,
+    "lng": 72.829,
+    "maps_url": "https://www.google.com/maps?q=19.0580,72.8290",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Bandra",
+        "walk_min": 14
+      }
+    ]
+  },
+  {
+    "id": "mag1-0",
+    "cityId": "mumbai",
+    "name": "Ideal Corner",
+    "type": "restaurant",
+    "neighborhood": "Fort",
+    "description": "A Parsi-run institution in a crumbling Fort building that serves dhansak, salli boti, and patra ni machhi to a lunchtime crowd of lawyers, journalists, and office workers who've been coming for decades. The banana leaf caramel custard has no business being this good.",
+    "vibe": 8.9,
+    "localLove": 9.5,
+    "uniqueness": 9.0,
+    "tags": [
+      "parsi",
+      "dhansak",
+      "fort",
+      "lunch institution",
+      "banana leaf custard"
+    ],
+    "tip": "Go for lunch only — open 11:30am to 3:30pm weekdays. The dhansak and salli boti combo with caramel custard after.",
+    "status": "approved",
+    "agentIcon": "🏛️",
+    "discoveredBy": "Colaba / Fort / CST",
+    "lat": 18.9319,
+    "lng": 72.834,
+    "maps_url": "https://www.google.com/maps?q=18.9319,72.8340",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Churchgate",
+        "walk_min": 9
+      }
+    ]
+  },
+  {
+    "id": "mag1-1",
+    "cityId": "mumbai",
+    "name": "Britannia & Co",
+    "type": "restaurant",
+    "neighborhood": "Ballard Estate",
+    "description": "A Parsi-run restaurant in operation since 1923 where the 90-year-old owner Boman Kohinoor personally greets regulars and still oversees the berry pulao — made with barberries brought from Iran. The room smells of decades of caramelised onion and goodwill.",
+    "vibe": 9.3,
+    "localLove": 9.4,
+    "uniqueness": 9.7,
+    "tags": [
+      "parsi",
+      "berry pulao",
+      "1923",
+      "ballard estate",
+      "boman kohinoor"
+    ],
+    "tip": "Berry pulao is the only order. Open lunch only, closed Sundays. Go on a weekday to meet Mr Kohinoor himself.",
+    "status": "approved",
+    "agentIcon": "🏛️",
+    "discoveredBy": "Colaba / Fort / CST",
+    "lat": 18.936,
+    "lng": 72.84,
+    "maps_url": "https://www.google.com/maps?q=18.9360,72.8400",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "CST / Churchgate",
+        "walk_min": 14
+      }
+    ]
+  },
+  {
+    "id": "mag1-2",
+    "cityId": "mumbai",
+    "name": "Kyani & Co",
+    "type": "restaurant",
+    "neighborhood": "Marine Lines / JSS Road",
+    "description": "The oldest surviving Irani café in Mumbai — open since 1904. Bentwood chairs, yellowing menus, and a mawa cake that no patisserie in the city has managed to replicate. The tea comes in a glass. The conversation is always better than anywhere else.",
+    "vibe": 9.0,
+    "localLove": 9.3,
+    "uniqueness": 9.5,
+    "tags": [
+      "irani cafe",
+      "1904",
+      "mawa cake",
+      "marine lines",
+      "glass chai"
+    ],
+    "tip": "The mawa cake and bun maska. Come at 8am before the lunchtime crowd arrives.",
+    "status": "approved",
+    "agentIcon": "🏛️",
+    "discoveredBy": "Colaba / Fort / CST",
+    "lat": 18.9444,
+    "lng": 72.8244,
+    "maps_url": "https://www.google.com/maps?q=18.9444,72.8244",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Marine Lines",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "mag1-3",
+    "cityId": "mumbai",
+    "name": "Kala Ghoda Café",
+    "type": "restaurant",
+    "neighborhood": "Kala Ghoda / Fort",
+    "description": "A small café that has been the unofficial meeting room of Mumbai's art and architecture world since 2002. Operates from a former Babulnath temple trust building. The filter coffee is taken seriously. The walls are covered in rotating work by local artists who can't yet afford a gallery.",
+    "vibe": 8.7,
+    "localLove": 9.0,
+    "uniqueness": 8.4,
+    "tags": [
+      "art crowd",
+      "filter coffee",
+      "gallery walls",
+      "kala ghoda",
+      "architect favourite"
+    ],
+    "tip": "The mushroom on toast and filter coffee. Tuesday evenings have informal artist talks — walk in.",
+    "status": "approved",
+    "agentIcon": "🏛️",
+    "discoveredBy": "Colaba / Fort / CST",
+    "lat": 18.9287,
+    "lng": 72.8315,
+    "maps_url": "https://www.google.com/maps?q=18.9287,72.8315",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "CST",
+        "walk_min": 12
+      }
+    ]
+  },
+  {
+    "id": "mag1-4",
+    "cityId": "mumbai",
+    "name": "Aaswad",
+    "type": "restaurant",
+    "neighborhood": "Dadar West",
+    "description": "A no-frills Maharashtrian canteen that serves the best misal pav and sabudana khichdi in the city — a claim its regulars will defend aggressively. Open from 7am. Cash only. The thali at lunch has not changed in 40 years. Locals queue outside daily.",
+    "vibe": 8.6,
+    "localLove": 9.8,
+    "uniqueness": 8.2,
+    "tags": [
+      "maharashtrian",
+      "misal pav",
+      "sabudana khichdi",
+      "7am",
+      "40 year thali"
+    ],
+    "tip": "Arrive by 7:30am for breakfast. The misal is the reason. Expect a queue. Cash only.",
+    "status": "approved",
+    "agentIcon": "🏛️",
+    "discoveredBy": "Colaba / Fort / CST",
+    "lat": 19.0183,
+    "lng": 72.8422,
+    "maps_url": "https://www.google.com/maps?q=19.0183,72.8422",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Dadar",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "mag1-5",
+    "cityId": "mumbai",
+    "name": "Excelsior Art Deco Cinema",
+    "type": "experience",
+    "neighborhood": "Fort",
+    "description": "A 1930s art deco cinema that still screens Bollywood films to a walk-in audience of Fort office workers and nearby residents. The interior — original terrazzo floors, brass fixtures, and a hand-painted curtain — is a surviving specimen of Mumbai's golden age of cinema architecture.",
+    "vibe": 9.2,
+    "localLove": 8.8,
+    "uniqueness": 9.4,
+    "tags": [
+      "art deco",
+      "1930s cinema",
+      "fort",
+      "walk-in",
+      "terrazzo"
+    ],
+    "tip": "Check show times on the board outside. The single-screen hall for ₹80. The interval cutting chai is essential.",
+    "status": "approved",
+    "agentIcon": "🏛️",
+    "discoveredBy": "Colaba / Fort / CST",
+    "lat": 18.9324,
+    "lng": 72.8348,
+    "maps_url": "https://www.google.com/maps?q=18.9324,72.8348",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Churchgate",
+        "walk_min": 10
+      }
+    ]
+  },
+  {
+    "id": "mag1-6",
+    "cityId": "mumbai",
+    "name": "Bastian Colaba",
+    "type": "bar",
+    "neighborhood": "Colaba",
+    "description": "A seafood-focused bar and restaurant in a former garage in Colaba's back streets that became famous for its chilled-out vibe before the crowds found it. The raw bar is excellent, the wine list is genuinely considered, and the local clientele on weeknights is exactly the Colaba crowd you want to be among.",
+    "vibe": 8.8,
+    "localLove": 8.5,
+    "uniqueness": 8.1,
+    "tags": [
+      "seafood bar",
+      "raw bar",
+      "colaba",
+      "garage",
+      "wine list"
+    ],
+    "tip": "The oysters and the Sri Lankan crab curry. Book for weekends, walk in weeknights.",
+    "status": "approved",
+    "agentIcon": "🏛️",
+    "discoveredBy": "Colaba / Fort / CST",
+    "lat": 18.9211,
+    "lng": 72.8301,
+    "maps_url": "https://www.google.com/maps?q=18.9211,72.8301",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Colaba Causeway",
+        "walk_min": 5
+      }
+    ]
+  },
+  {
+    "id": "mag1-7",
+    "cityId": "mumbai",
+    "name": "Asiatic Society Library Reading Room",
+    "type": "experience",
+    "neighborhood": "Fort / Town Hall",
+    "description": "A 19th-century neoclassical library building with a reading room open to the public that holds one of the finest collections of rare manuscripts and early Indian print material. The reading room on the first floor — with its ceiling fans and original reading lamps — is the calmest room in Mumbai.",
+    "vibe": 9.1,
+    "localLove": 8.3,
+    "uniqueness": 9.6,
+    "tags": [
+      "library",
+      "19th century",
+      "rare manuscripts",
+      "reading room",
+      "neoclassical"
+    ],
+    "tip": "Bring ID and sign in at the desk. The upper gallery with the curved reading tables is open on weekday mornings.",
+    "status": "approved",
+    "agentIcon": "🏛️",
+    "discoveredBy": "Colaba / Fort / CST",
+    "lat": 18.931,
+    "lng": 72.8337,
+    "maps_url": "https://www.google.com/maps?q=18.9310,72.8337",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Churchgate",
+        "walk_min": 11
+      }
+    ]
+  },
+  {
+    "id": "mag1-8",
+    "cityId": "mumbai",
+    "name": "Crawford Market Morning",
+    "type": "market",
+    "neighborhood": "Crawford Market / Masjid",
+    "description": "Mumbai's Victorian wholesale market at 6am, before it opens to retail customers — wholesale flower vendors, spice traders and produce merchants who've worked these stalls for generations. The cast iron arcades and the stone reliefs by Kipling's father are best appreciated before the crowds arrive.",
+    "vibe": 9.0,
+    "localLove": 9.4,
+    "uniqueness": 8.7,
+    "tags": [
+      "victorian market",
+      "wholesale",
+      "flowers",
+      "spices",
+      "kipling"
+    ],
+    "tip": "6-8am for the wholesale atmosphere. The flower section in the rear courtyard is extraordinary. Kipling's bas-reliefs are above the main entrance.",
+    "status": "approved",
+    "agentIcon": "🏛️",
+    "discoveredBy": "Colaba / Fort / CST",
+    "lat": 18.9487,
+    "lng": 72.8344,
+    "maps_url": "https://www.google.com/maps?q=18.9487,72.8344",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Masjid Bunder",
+        "walk_min": 6
+      }
+    ]
+  },
+  {
+    "id": "mag1-9",
+    "cityId": "mumbai",
+    "name": "Oval Maidan Evening Cricket",
+    "type": "experience",
+    "neighborhood": "Oval Maidan / Churchgate",
+    "description": "The city's lungs, where informal cricket matches run from 4pm until dark across dozens of simultaneous pitches on the same ground. Young men play seriously while the art deco and Victorian buildings of the Bombay High Court and University of Mumbai form a backdrop that no architect alive could have planned.",
+    "vibe": 9.5,
+    "localLove": 9.7,
+    "uniqueness": 8.9,
+    "tags": [
+      "cricket",
+      "oval maidan",
+      "art deco",
+      "evening",
+      "free"
+    ],
+    "tip": "Come at 4:30pm weekdays. Sit on the steps of the Rajabai Tower side and watch three games simultaneously.",
+    "status": "approved",
+    "agentIcon": "🏛️",
+    "discoveredBy": "Colaba / Fort / CST",
+    "lat": 18.9275,
+    "lng": 72.8284,
+    "maps_url": "https://www.google.com/maps?q=18.9275,72.8284",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Churchgate",
+        "walk_min": 6
+      }
+    ]
+  },
+  {
+    "id": "mag2-0",
+    "cityId": "mumbai",
+    "name": "Pali Bhavan",
+    "type": "restaurant",
+    "neighborhood": "Pali Hill, Bandra",
+    "description": "A converted bungalow with an open verandah that serves Goan-influenced coastal food in a setting that feels more Panaji than Mumbai. The prawn curry is from a 100-year-old Goan recipe. Locals bring out-of-towners here specifically to show them a version of Mumbai that doesn't advertise itself.",
+    "vibe": 9.1,
+    "localLove": 9.0,
+    "uniqueness": 8.7,
+    "tags": [
+      "goan",
+      "prawn curry",
+      "bungalow",
+      "verandah",
+      "coastal"
+    ],
+    "tip": "The prawn curry rice and the fish recheado. Book the verandah table.",
+    "status": "approved",
+    "agentIcon": "🌊",
+    "discoveredBy": "Bandra West / Pali Hill",
+    "lat": 19.0596,
+    "lng": 72.8268,
+    "maps_url": "https://www.google.com/maps?q=19.0596,72.8268",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Bandra",
+        "walk_min": 17
+      }
+    ]
+  },
+  {
+    "id": "mag2-1",
+    "cityId": "mumbai",
+    "name": "Elco Pani Puri, Bandra",
+    "type": "restaurant",
+    "neighborhood": "Hill Road, Bandra",
+    "description": "A pani puri stall that has been operating from the same spot on Hill Road since 1953, run by the fourth generation of the same Rajasthani family. The puri is hand-rolled, the pani comes in six flavours, and the filling is a precise recipe that has not changed. The queue is always there.",
+    "vibe": 8.8,
+    "localLove": 9.7,
+    "uniqueness": 8.9,
+    "tags": [
+      "pani puri",
+      "1953",
+      "family run",
+      "hill road",
+      "4th generation"
+    ],
+    "tip": "Go between 5-7pm when the evening crowd is manageable. Order the imli variant first, then the mint. Six per round minimum.",
+    "status": "approved",
+    "agentIcon": "🌊",
+    "discoveredBy": "Bandra West / Pali Hill",
+    "lat": 19.0644,
+    "lng": 72.8356,
+    "maps_url": "https://www.google.com/maps?q=19.0644,72.8356",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Bandra",
+        "walk_min": 11
+      }
+    ]
+  },
+  {
+    "id": "mag2-2",
+    "cityId": "mumbai",
+    "name": "Candies",
+    "type": "restaurant",
+    "neighborhood": "Pali Naka, Bandra",
+    "description": "A Bandra institution that has been a meeting point for the neighbourhood's creative class since the 1980s. Outdoor tables, excellent filter coffee, sandwiches on proper bread, and the kind of Sunday morning where nobody is in a hurry. The carrot cake is the city's benchmark.",
+    "vibe": 8.6,
+    "localLove": 9.2,
+    "uniqueness": 7.8,
+    "tags": [
+      "bandra institution",
+      "filter coffee",
+      "carrot cake",
+      "1980s",
+      "creative crowd"
+    ],
+    "tip": "Sunday mornings are the occasion. The carrot cake and filter coffee. Arrive early for a pavement table.",
+    "status": "approved",
+    "agentIcon": "🌊",
+    "discoveredBy": "Bandra West / Pali Hill",
+    "lat": 19.0571,
+    "lng": 72.8292,
+    "maps_url": "https://www.google.com/maps?q=19.0571,72.8292",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Bandra",
+        "walk_min": 15
+      }
+    ]
+  },
+  {
+    "id": "mag2-3",
+    "cityId": "mumbai",
+    "name": "Bandra Reclamation Promenade",
+    "type": "experience",
+    "neighborhood": "Bandra West, reclamation",
+    "description": "A 2km walking path along the reclaimed sea edge of Bandra that's claimed by joggers, elderly couples, schoolkids, and fishermen simultaneously. At dusk the Bandra-Worli Sea Link lights up across the water. Completely free. The chai wallahs set up at strategic points every 400 metres.",
+    "vibe": 9.3,
+    "localLove": 9.6,
+    "uniqueness": 8.1,
+    "tags": [
+      "sea promenade",
+      "free",
+      "sea link view",
+      "chai wallahs",
+      "evening walk"
+    ],
+    "tip": "The hour before sunset is the best. Walk north toward the Bandra Fort ruins at the end for the best sea link view.",
+    "status": "approved",
+    "agentIcon": "🌊",
+    "discoveredBy": "Bandra West / Pali Hill",
+    "lat": 19.0486,
+    "lng": 72.8196,
+    "maps_url": "https://www.google.com/maps?q=19.0486,72.8196",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Bandra",
+        "walk_min": 20
+      }
+    ]
+  },
+  {
+    "id": "mag2-4",
+    "cityId": "mumbai",
+    "name": "Bandra Fort Ruins",
+    "type": "experience",
+    "neighborhood": "Land's End, Bandra",
+    "description": "The remains of a Portuguese sea fort on the northern headland of Bandra, surrounded by fishermen's colony and a park where local teenagers and families gather. The view of the Arabian Sea and Bandra-Worli Sea Link from the battlement edge is Mumbai at its most dramatic.",
+    "vibe": 9.4,
+    "localLove": 9.1,
+    "uniqueness": 8.5,
+    "tags": [
+      "portuguese fort",
+      "ruins",
+      "sea view",
+      "free",
+      "headland"
+    ],
+    "tip": "Sunrise or the hour before sunset. Walk through the fishing colony to the north gate — the fishermen's houses wrapped around the fort walls are extraordinary.",
+    "status": "approved",
+    "agentIcon": "🌊",
+    "discoveredBy": "Bandra West / Pali Hill",
+    "lat": 19.048,
+    "lng": 72.8169,
+    "maps_url": "https://www.google.com/maps?q=19.0480,72.8169",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Bandra",
+        "walk_min": 22
+      }
+    ]
+  },
+  {
+    "id": "mag2-5",
+    "cityId": "mumbai",
+    "name": "The Bungalow, Bandra",
+    "type": "bar",
+    "neighborhood": "Pali Hill",
+    "description": "A 1930s colonial bungalow that survived Bandra's redevelopment to become a bar with an extraordinary garden. The gin list is the longest in Mumbai. The cocktails use local botanicals. On a Tuesday evening with no crowds and a gin and tonic in the garden, it's the best hour in the western suburbs.",
+    "vibe": 9.0,
+    "localLove": 8.6,
+    "uniqueness": 8.9,
+    "tags": [
+      "colonial bungalow",
+      "gin list",
+      "garden bar",
+      "1930s",
+      "pali hill"
+    ],
+    "tip": "Tuesday or Wednesday evening for the garden. The house gin and tonic with kaffir lime is the opening move.",
+    "status": "approved",
+    "agentIcon": "🌊",
+    "discoveredBy": "Bandra West / Pali Hill",
+    "lat": 19.0601,
+    "lng": 72.8261,
+    "maps_url": "https://www.google.com/maps?q=19.0601,72.8261",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Bandra",
+        "walk_min": 16
+      }
+    ]
+  },
+  {
+    "id": "mag2-6",
+    "cityId": "mumbai",
+    "name": "Carter Road Food Carts",
+    "type": "market",
+    "neighborhood": "Carter Road, Bandra",
+    "description": "The sea-facing carter road promenade is lined with carts selling bhel, corn, and roasted peanuts from dusk — but the serious ones are the vadapav and pav bhaji carts behind the road near the basketball courts where the local Bandra crowd eats after football practice.",
+    "vibe": 8.5,
+    "localLove": 9.4,
+    "uniqueness": 7.7,
+    "tags": [
+      "carter road",
+      "bhel",
+      "vadapav",
+      "evening carts",
+      "football crowd"
+    ],
+    "tip": "The vadapav cart on the north end near the sports ground is the genuine article. Come after 7pm when the football crowd rolls in.",
+    "status": "approved",
+    "agentIcon": "🌊",
+    "discoveredBy": "Bandra West / Pali Hill",
+    "lat": 19.0521,
+    "lng": 72.8189,
+    "maps_url": "https://www.google.com/maps?q=19.0521,72.8189",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Bandra",
+        "walk_min": 18
+      }
+    ]
+  },
+  {
+    "id": "mag2-7",
+    "cityId": "mumbai",
+    "name": "Bandra's Chapel Road Street Art",
+    "type": "experience",
+    "neighborhood": "Chapel Road / Union Park",
+    "description": "A residential lane in Bandra that has been steadily colonised by street murals — fish, Konkani women, art deco geometry, and political commentary. Completely unplanned, entirely authentic. The murals change as buildings are repainted and new artists add their layers.",
+    "vibe": 8.7,
+    "localLove": 8.5,
+    "uniqueness": 8.6,
+    "tags": [
+      "street art",
+      "murals",
+      "bandra",
+      "walking",
+      "chapel road"
+    ],
+    "tip": "Walk Chapel Road to Union Park and back. Morning light is best for photography. The newest murals tend to be around the church wall.",
+    "status": "approved",
+    "agentIcon": "🌊",
+    "discoveredBy": "Bandra West / Pali Hill",
+    "lat": 19.062,
+    "lng": 72.8308,
+    "maps_url": "https://www.google.com/maps?q=19.0620,72.8308",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Bandra",
+        "walk_min": 13
+      }
+    ]
+  },
+  {
+    "id": "mag2-8",
+    "cityId": "mumbai",
+    "name": "Cafe Noorani",
+    "type": "restaurant",
+    "neighborhood": "Haji Ali, Mahalaxmi",
+    "description": "A 70-year-old Mughlai restaurant near Haji Ali that serves the city's best seekh kebabs, mutton biryani, and shammi kebabs to a clientele that ranges from South Mumbai lawyers to suburban taxi drivers. The sign is modest. The queue is not.",
+    "vibe": 8.8,
+    "localLove": 9.5,
+    "uniqueness": 8.5,
+    "tags": [
+      "mughlai",
+      "seekh kebabs",
+      "70 years",
+      "biryani",
+      "haji ali"
+    ],
+    "tip": "The seekh kebab and mutton biryani. Go between 1-2pm when the kitchen is in full rhythm.",
+    "status": "approved",
+    "agentIcon": "🌊",
+    "discoveredBy": "Bandra West / Pali Hill",
+    "lat": 18.9719,
+    "lng": 72.8123,
+    "maps_url": "https://www.google.com/maps?q=18.9719,72.8123",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Haji Ali",
+        "walk_min": 6
+      }
+    ]
+  },
+  {
+    "id": "mag2-9",
+    "cityId": "mumbai",
+    "name": "Haji Ali Juice Centre",
+    "type": "restaurant",
+    "neighborhood": "Haji Ali",
+    "description": "A legendary juice bar at the causeway entrance to Haji Ali Dargah that has been making fresh fruit juices and milkshakes for 50 years. The mango milk is a religious experience between March and June. The chikoo milk is year-round and equally essential.",
+    "vibe": 8.7,
+    "localLove": 9.4,
+    "uniqueness": 8.0,
+    "tags": [
+      "juice bar",
+      "mango milk",
+      "chikoo",
+      "50 years",
+      "haji ali"
+    ],
+    "tip": "Mango milk between March-June when Alphonso season peaks. The chikoo milkshake year-round. Stand and drink — the seating is secondary.",
+    "status": "approved",
+    "agentIcon": "🌊",
+    "discoveredBy": "Bandra West / Pali Hill",
+    "lat": 18.9718,
+    "lng": 72.8105,
+    "maps_url": "https://www.google.com/maps?q=18.9718,72.8105",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Haji Ali",
+        "walk_min": 4
+      }
+    ]
+  },
+  {
+    "id": "mag3-0",
+    "cityId": "mumbai",
+    "name": "Café Mysore",
+    "type": "restaurant",
+    "neighborhood": "Matunga West",
+    "description": "A South Indian tiffin house that opens at 7am and has been serving idli, medu vada, and dosas to the Tamil Brahmin community of Matunga since 1936. The filter coffee comes in a brass tumbler and the coconut chutney is made fresh every hour. Entirely cash, mostly Tamil spoken.",
+    "vibe": 9.2,
+    "localLove": 9.7,
+    "uniqueness": 9.1,
+    "tags": [
+      "south indian",
+      "idli",
+      "filter coffee",
+      "1936",
+      "tamil brahmin"
+    ],
+    "tip": "Go by 8:30am before the idli runs out. The brass tumbler filter coffee is the reason. Order the medu vada with sambar too.",
+    "status": "approved",
+    "agentIcon": "🍜",
+    "discoveredBy": "Matunga / Matunga East",
+    "lat": 19.027,
+    "lng": 72.8399,
+    "maps_url": "https://www.google.com/maps?q=19.0270,72.8399",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Matunga",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "mag3-1",
+    "cityId": "mumbai",
+    "name": "Ram Ashraya",
+    "type": "restaurant",
+    "neighborhood": "Matunga West",
+    "description": "Since 1942, this unassuming South Indian restaurant has served idli that regulars describe as the city's finest — thin, cloud-soft, served with six chutneys. The thali at lunch is a ritual for three generations of the same Matunga families. No frills, no Instagram, just irreplaceable cooking.",
+    "vibe": 8.9,
+    "localLove": 9.8,
+    "uniqueness": 9.0,
+    "tags": [
+      "idli",
+      "south indian",
+      "1942",
+      "matunga",
+      "six chutneys"
+    ],
+    "tip": "Arrive at 7am for idli. The lunch thali from 12-3pm. Three generations of regulars will be eating alongside you.",
+    "status": "approved",
+    "agentIcon": "🍜",
+    "discoveredBy": "Matunga / Matunga East",
+    "lat": 19.0268,
+    "lng": 72.8402,
+    "maps_url": "https://www.google.com/maps?q=19.0268,72.8402",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Matunga",
+        "walk_min": 6
+      }
+    ]
+  },
+  {
+    "id": "mag3-2",
+    "cityId": "mumbai",
+    "name": "Mani's Lunch Home",
+    "type": "restaurant",
+    "neighborhood": "Matunga East",
+    "description": "A Mangalorean family-run restaurant serving the coastal Karnataka classics that are barely represented in Mumbai — kane rava fry, kori rotti, neer dosa with chicken sukka. The small room seats 20. The cooking is by the family matriarch and has been since 1965.",
+    "vibe": 8.8,
+    "localLove": 9.5,
+    "uniqueness": 9.3,
+    "tags": [
+      "mangalorean",
+      "neer dosa",
+      "kori rotti",
+      "1965",
+      "family matriarch"
+    ],
+    "tip": "Kane rava fry and the neer dosa with chicken sukka. Go for lunch only. Cash only.",
+    "status": "approved",
+    "agentIcon": "🍜",
+    "discoveredBy": "Matunga / Matunga East",
+    "lat": 19.0278,
+    "lng": 72.844,
+    "maps_url": "https://www.google.com/maps?q=19.0278,72.8440",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Matunga Road",
+        "walk_min": 9
+      }
+    ]
+  },
+  {
+    "id": "mag3-3",
+    "cityId": "mumbai",
+    "name": "King's Circle Flower Market",
+    "type": "market",
+    "neighborhood": "King's Circle, Matunga",
+    "description": "A wholesale flower market that operates in the early morning around the King's Circle roundabout. Marigold, jasmine, lotus, and tuberose arrive from farms in Maharashtra and are sorted, bundled, and sold to temple vendors, wedding decorators, and puja suppliers. The smell alone is worth the journey.",
+    "vibe": 9.1,
+    "localLove": 9.4,
+    "uniqueness": 8.8,
+    "tags": [
+      "flower market",
+      "wholesale",
+      "morning",
+      "marigold",
+      "jasmine",
+      "king's circle"
+    ],
+    "tip": "Go at 5:30am when the flower sorting is at peak. The lotus bundles are extraordinary in season (July-September).",
+    "status": "approved",
+    "agentIcon": "🍜",
+    "discoveredBy": "Matunga / Matunga East",
+    "lat": 19.0249,
+    "lng": 72.8387,
+    "maps_url": "https://www.google.com/maps?q=19.0249,72.8387",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Matunga",
+        "walk_min": 5
+      }
+    ]
+  },
+  {
+    "id": "mag3-4",
+    "cityId": "mumbai",
+    "name": "Panshikar Provision Stores",
+    "type": "experience",
+    "neighborhood": "Matunga West",
+    "description": "A 100-year-old South Indian grocery store that stocks masalas, pickles, coconut products, and temple supplies that exist nowhere else in Mumbai. The owner can identify every variety of dried lentil by smell. The turmeric root from his Coorg supplier has a following among serious cooks across the city.",
+    "vibe": 8.4,
+    "localLove": 9.2,
+    "uniqueness": 9.0,
+    "tags": [
+      "100 year old",
+      "south indian groceries",
+      "masala",
+      "coorg turmeric",
+      "temple supplies"
+    ],
+    "tip": "Go on Saturday morning when the week's stock arrives from Coorg. Ask for what's fresh — the owner's recommendations are worth following.",
+    "status": "approved",
+    "agentIcon": "🍜",
+    "discoveredBy": "Matunga / Matunga East",
+    "lat": 19.0265,
+    "lng": 72.8396,
+    "maps_url": "https://www.google.com/maps?q=19.0265,72.8396",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Matunga",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "mag3-5",
+    "cityId": "mumbai",
+    "name": "Hotel Sharda",
+    "type": "restaurant",
+    "neighborhood": "Matunga East",
+    "description": "A Saraswat Brahmin restaurant that serves Konkani home cooking rarely found in restaurants — amboli pancakes, sol kadhi, bangda curry, and a fish thali that has been the same since 1970. No menu in English. Point at what the table next to you has.",
+    "vibe": 8.7,
+    "localLove": 9.6,
+    "uniqueness": 9.2,
+    "tags": [
+      "saraswat",
+      "konkani",
+      "amboli",
+      "sol kadhi",
+      "fish thali",
+      "1970"
+    ],
+    "tip": "The fish thali at lunch. Point at what you want. No English menu, but the fish selection is displayed on the counter.",
+    "status": "approved",
+    "agentIcon": "🍜",
+    "discoveredBy": "Matunga / Matunga East",
+    "lat": 19.0281,
+    "lng": 72.8441,
+    "maps_url": "https://www.google.com/maps?q=19.0281,72.8441",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Matunga Road",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "mag3-6",
+    "cityId": "mumbai",
+    "name": "Café Madras",
+    "type": "restaurant",
+    "neighborhood": "Matunga West",
+    "description": "Since 1940, a family-run tiffin house that has served the Telugu and Tamil communities of Matunga and beyond. The rice varieties — pongal, puliyogare, lemon rice — rotate daily and are made in limited quantities. The regular crowd considers it a civic responsibility to finish before it closes.",
+    "vibe": 8.8,
+    "localLove": 9.6,
+    "uniqueness": 8.9,
+    "tags": [
+      "telugu",
+      "tamil",
+      "pongal",
+      "puliyogare",
+      "1940",
+      "limited quantities"
+    ],
+    "tip": "The pongal on Tuesday and the puliyogare on Friday are the pilgrimage days. Open 7am to 3pm only.",
+    "status": "approved",
+    "agentIcon": "🍜",
+    "discoveredBy": "Matunga / Matunga East",
+    "lat": 19.0271,
+    "lng": 72.8397,
+    "maps_url": "https://www.google.com/maps?q=19.0271,72.8397",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Matunga",
+        "walk_min": 6
+      }
+    ]
+  },
+  {
+    "id": "mag3-7",
+    "cityId": "mumbai",
+    "name": "Matunga Vegetable Market",
+    "type": "market",
+    "neighborhood": "Matunga West",
+    "description": "A daily wholesale and retail market that supplies the restaurant kitchens of an entire corner of Mumbai. At 6am the South Indian vegetables — drumstick, raw banana, taro, curry leaf bunches, tamarind pods — arrive fresh and are gone by 9am. Food writers and chefs come here specifically.",
+    "vibe": 8.5,
+    "localLove": 9.5,
+    "uniqueness": 8.3,
+    "tags": [
+      "vegetable market",
+      "south indian veg",
+      "drumstick",
+      "curry leaves",
+      "wholesale",
+      "6am"
+    ],
+    "tip": "6-8am for the full selection. The curry leaf bundles are the cheapest and freshest in Mumbai. Bring your own bags.",
+    "status": "approved",
+    "agentIcon": "🍜",
+    "discoveredBy": "Matunga / Matunga East",
+    "lat": 19.0262,
+    "lng": 72.839,
+    "maps_url": "https://www.google.com/maps?q=19.0262,72.8390",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Matunga",
+        "walk_min": 5
+      }
+    ]
+  },
+  {
+    "id": "mag3-8",
+    "cityId": "mumbai",
+    "name": "A. Mahesh Bhat & Co",
+    "type": "experience",
+    "neighborhood": "Matunga West",
+    "description": "A 60-year-old coconut oil press operating from a wood-and-corrugated-iron shed that still uses a stone mill to cold-press coconut oil. The smell of fresh coconut oil fills the entire street. The oil is sold in glass bottles directly from the press, and the coconut milk is available warm before noon.",
+    "vibe": 8.9,
+    "localLove": 9.1,
+    "uniqueness": 9.5,
+    "tags": [
+      "cold press oil",
+      "stone mill",
+      "coconut oil",
+      "60 years",
+      "direct from press"
+    ],
+    "tip": "Come before noon for fresh warm coconut milk as a by-product. Buy the cold-pressed oil directly — it's the finest coconut oil available in the city.",
+    "status": "approved",
+    "agentIcon": "🍜",
+    "discoveredBy": "Matunga / Matunga East",
+    "lat": 19.0266,
+    "lng": 72.8394,
+    "maps_url": "https://www.google.com/maps?q=19.0266,72.8394",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Matunga",
+        "walk_min": 6
+      }
+    ]
+  },
+  {
+    "id": "mag3-9",
+    "cityId": "mumbai",
+    "name": "Shiv Sagar Food Centre",
+    "type": "restaurant",
+    "neighborhood": "Dadar",
+    "description": "A South Indian restaurant on Dadar's Shivaji Park ring road that has been serving the park-walkers, political gatherings, and cricket matches for 35 years. The masala dosa is crisp to the point of being structural. The sambar is the standard against which Mumbaikars measure all others.",
+    "vibe": 8.4,
+    "localLove": 9.5,
+    "uniqueness": 7.9,
+    "tags": [
+      "masala dosa",
+      "south indian",
+      "shivaji park",
+      "35 years",
+      "sambar"
+    ],
+    "tip": "Post-cricket match crowd from Shivaji Park comes for lunch. The masala dosa and the fresh lime soda.",
+    "status": "approved",
+    "agentIcon": "🍜",
+    "discoveredBy": "Matunga / Matunga East",
+    "lat": 19.0187,
+    "lng": 72.8426,
+    "maps_url": "https://www.google.com/maps?q=19.0187,72.8426",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Dadar",
+        "walk_min": 9
+      }
+    ]
+  },
+  {
+    "id": "mag4-0",
+    "cityId": "mumbai",
+    "name": "Todi Mill Social",
+    "type": "bar",
+    "neighborhood": "Lower Parel",
+    "description": "A craft beer bar and restaurant inside a restored textile mill — the mill machinery still visible in the walls. The local craft beers on tap rotate constantly and the food respects the industrial context. The mill chimney visible from the outdoor terrace is a reminder of what this building used to do.",
+    "vibe": 8.7,
+    "localLove": 8.5,
+    "uniqueness": 8.6,
+    "tags": [
+      "mill district",
+      "craft beer",
+      "restored mill",
+      "chimney view",
+      "lower parel"
+    ],
+    "tip": "The taproom section next to the mill wall is the part to find. The seasonal sour beers are worth trying.",
+    "status": "approved",
+    "agentIcon": "🎨",
+    "discoveredBy": "Parel / Lower Parel / Worli",
+    "lat": 19.0033,
+    "lng": 72.8318,
+    "maps_url": "https://www.google.com/maps?q=19.0033,72.8318",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Lower Parel",
+        "walk_min": 9
+      }
+    ]
+  },
+  {
+    "id": "mag4-1",
+    "cityId": "mumbai",
+    "name": "Bhau Daji Lad Museum",
+    "type": "experience",
+    "neighborhood": "Byculla",
+    "description": "Mumbai's oldest museum, restored to its 1872 condition — green and gold Victorian cast iron, terrazzo mosaic floors, and a collection of maps, models, and craft objects that trace the city's history before it was Mumbai. Almost always quiet, often illuminated by shaft-light through high windows.",
+    "vibe": 9.2,
+    "localLove": 8.5,
+    "uniqueness": 9.3,
+    "tags": [
+      "1872 museum",
+      "victorian",
+      "byculla",
+      "city history",
+      "quiet"
+    ],
+    "tip": "Wednesday morning is quietest. The scale model of Bombay in 1800 in the lower hall is astonishing. Entry ₹20 for Indians.",
+    "status": "approved",
+    "agentIcon": "🎨",
+    "discoveredBy": "Parel / Lower Parel / Worli",
+    "lat": 18.9795,
+    "lng": 72.8357,
+    "maps_url": "https://www.google.com/maps?q=18.9795,72.8357",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Byculla",
+        "walk_min": 10
+      }
+    ]
+  },
+  {
+    "id": "mag4-2",
+    "cityId": "mumbai",
+    "name": "Kamala Mills Night",
+    "type": "bar",
+    "neighborhood": "Lower Parel",
+    "description": "The former textile mill complex now houses some of Mumbai's most interesting bars and restaurants in its converted sheds and warehouses. On weekday evenings the crowd is creative industry and startup workers eating dinner; on weekends it transforms. The contrast between the industrial architecture and what happens inside is sharp.",
+    "vibe": 8.5,
+    "localLove": 8.2,
+    "uniqueness": 7.8,
+    "tags": [
+      "mill complex",
+      "converted warehouse",
+      "lower parel",
+      "weeknight",
+      "creative crowd"
+    ],
+    "tip": "Tuesday-Thursday evenings for the least frenetic version. The new restaurant openings in the east sheds are worth exploring.",
+    "status": "approved",
+    "agentIcon": "🎨",
+    "discoveredBy": "Parel / Lower Parel / Worli",
+    "lat": 19.0023,
+    "lng": 72.8302,
+    "maps_url": "https://www.google.com/maps?q=19.0023,72.8302",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Lower Parel",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "mag4-3",
+    "cityId": "mumbai",
+    "name": "Worli Village Fish Market",
+    "type": "market",
+    "neighborhood": "Worli Koliwada",
+    "description": "The Koli fishing village embedded within Worli — a fishing community that predates the city by centuries, now surrounded by BKC towers. The morning fish market operates from 5am. The village lanes behind are lined with Koli women selling dried Bombay duck from baskets on their heads.",
+    "vibe": 9.3,
+    "localLove": 9.6,
+    "uniqueness": 9.4,
+    "tags": [
+      "koli village",
+      "worli",
+      "fishing community",
+      "bombay duck",
+      "5am fish market"
+    ],
+    "tip": "5-7am for the market. Walk into the village behind the coast road — the lanes are centuries old. The dried fish vendors are the authentic Koli trade.",
+    "status": "approved",
+    "agentIcon": "🎨",
+    "discoveredBy": "Parel / Lower Parel / Worli",
+    "lat": 19.0052,
+    "lng": 72.8145,
+    "maps_url": "https://www.google.com/maps?q=19.0052,72.8145",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Worli Naka",
+        "walk_min": 12
+      }
+    ]
+  },
+  {
+    "id": "mag4-4",
+    "cityId": "mumbai",
+    "name": "Prithvi Theatre Café",
+    "type": "bar",
+    "neighborhood": "Juhu",
+    "description": "A 40-year-old café attached to Mumbai's most important small theatre, with outdoor seating under a peepal tree where actors, directors, and audience members debrief after shows. The chai is cheap and the conversation is better than anything on stage. Stays open after 11pm shows.",
+    "vibe": 9.4,
+    "localLove": 9.2,
+    "uniqueness": 9.0,
+    "tags": [
+      "theatre café",
+      "prithvi",
+      "peepal tree",
+      "actors",
+      "late night chai"
+    ],
+    "tip": "Come after the late show for the post-performance crowd. The chai and the vada pav are the only order. Check the show schedule at the box office.",
+    "status": "approved",
+    "agentIcon": "🎨",
+    "discoveredBy": "Parel / Lower Parel / Worli",
+    "lat": 19.0999,
+    "lng": 72.8263,
+    "maps_url": "https://www.google.com/maps?q=19.0999,72.8263",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Vile Parle",
+        "walk_min": 14
+      }
+    ]
+  },
+  {
+    "id": "mag4-5",
+    "cityId": "mumbai",
+    "name": "Gallery Chemould Prescott Road",
+    "type": "experience",
+    "neighborhood": "Fort",
+    "description": "The gallery that launched the careers of most of India's major contemporary artists — Bhupen Khakhar, Atul Dodiya, Sudarshan Shetty — in a shopfront at Fort. Openings are genuinely attended by the artists, curators walk the shows with visitors, and the programme challenges without performing.",
+    "vibe": 8.9,
+    "localLove": 8.6,
+    "uniqueness": 8.8,
+    "tags": [
+      "contemporary art",
+      "gallery",
+      "fort",
+      "indian artists",
+      "historic programme"
+    ],
+    "tip": "Opening nights are Thursday evenings and are open to all. The permanent programme list is at the desk. Ask for the catalogue archive.",
+    "status": "approved",
+    "agentIcon": "🎨",
+    "discoveredBy": "Parel / Lower Parel / Worli",
+    "lat": 18.929,
+    "lng": 72.8336,
+    "maps_url": "https://www.google.com/maps?q=18.9290,72.8336",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Churchgate",
+        "walk_min": 13
+      }
+    ]
+  },
+  {
+    "id": "mag4-6",
+    "cityId": "mumbai",
+    "name": "The Clearing House",
+    "type": "bar",
+    "neighborhood": "Ballard Estate",
+    "description": "A craft cocktail bar in a former clearing house vault in Ballard Estate that preserves the original Edwardian banking architecture — teak counters, brass grilles, vaulted ceilings. The cocktail programme changes seasonally, uses Indian botanicals, and is executed by a team that has worked in London and Singapore.",
+    "vibe": 9.1,
+    "localLove": 8.3,
+    "uniqueness": 9.2,
+    "tags": [
+      "craft cocktails",
+      "edwardian vault",
+      "ballard estate",
+      "indian botanicals",
+      "banking architecture"
+    ],
+    "tip": "The seasonal cocktail menu is the reason. Go midweek when the space isn't full and the bartenders can explain each drink.",
+    "status": "approved",
+    "agentIcon": "🎨",
+    "discoveredBy": "Parel / Lower Parel / Worli",
+    "lat": 18.9359,
+    "lng": 72.8408,
+    "maps_url": "https://www.google.com/maps?q=18.9359,72.8408",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "CST",
+        "walk_min": 12
+      }
+    ]
+  },
+  {
+    "id": "mag4-7",
+    "cityId": "mumbai",
+    "name": "Byculla Zoo at Dawn",
+    "type": "experience",
+    "neighborhood": "Byculla",
+    "description": "Mumbai's oldest zoo (1861) in an ornamental Victorian garden, best visited at opening time when the animals are active and the garden is empty of schoolchildren. The aviary has Indian birds the city has otherwise driven away. The Victoria-era animal houses are extraordinary architecture.",
+    "vibe": 8.4,
+    "localLove": 8.8,
+    "uniqueness": 8.5,
+    "tags": [
+      "zoo",
+      "1861",
+      "victorian",
+      "byculla",
+      "dawn opening"
+    ],
+    "tip": "Be there at 9am when it opens. The bird aviary at the far end is the hidden gem. ₹25 entry for Indians.",
+    "status": "approved",
+    "agentIcon": "🎨",
+    "discoveredBy": "Parel / Lower Parel / Worli",
+    "lat": 18.9785,
+    "lng": 72.836,
+    "maps_url": "https://www.google.com/maps?q=18.9785,72.8360",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Byculla",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "mag4-8",
+    "cityId": "mumbai",
+    "name": "Worli Seaface at 6am",
+    "type": "experience",
+    "neighborhood": "Worli",
+    "description": "The sea-facing promenade at Worli before the city wakes — a 3km walking path where the Bandra-Worli Sea Link looms to the north while fishermen from Worli Koliwada cast nets in the morning light. No cafes, no vendors at this hour — just the Arabian Sea and Mumbai's industrial skyline across the water.",
+    "vibe": 9.4,
+    "localLove": 9.5,
+    "uniqueness": 8.7,
+    "tags": [
+      "sea link view",
+      "6am walk",
+      "worli",
+      "fishermen",
+      "free"
+    ],
+    "tip": "6am is the window before the jogger crowd arrives and before the light gets harsh. Walk south toward the Koli temple.",
+    "status": "approved",
+    "agentIcon": "🎨",
+    "discoveredBy": "Parel / Lower Parel / Worli",
+    "lat": 19.0135,
+    "lng": 72.8161,
+    "maps_url": "https://www.google.com/maps?q=19.0135,72.8161",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Worli Seaface",
+        "walk_min": 4
+      }
+    ]
+  },
+  {
+    "id": "mag4-9",
+    "cityId": "mumbai",
+    "name": "Bombay Canteen",
+    "type": "restaurant",
+    "neighborhood": "Lower Parel",
+    "description": "A restaurant that has earned its reputation by treating Indian ingredients with the same seriousness that European cuisine gets in Mumbai's luxury hotels. The menu is driven by seasonal regional sourcing — Manipuri black sesame, Meghalayan smoked pork, Rajasthani ker sangri — executed with precision.",
+    "vibe": 9.0,
+    "localLove": 8.8,
+    "uniqueness": 8.9,
+    "tags": [
+      "modern indian",
+      "regional ingredients",
+      "seasonal",
+      "mill district",
+      "serious cooking"
+    ],
+    "tip": "Order whatever mentions a specific Indian region. The drinks programme is equally considered. Book ahead.",
+    "status": "approved",
+    "agentIcon": "🎨",
+    "discoveredBy": "Parel / Lower Parel / Worli",
+    "lat": 19.0034,
+    "lng": 72.8317,
+    "maps_url": "https://www.google.com/maps?q=19.0034,72.8317",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Lower Parel",
+        "walk_min": 10
+      }
+    ]
+  },
+  {
+    "id": "mag5-0",
+    "cityId": "mumbai",
+    "name": "Versova Koliwada Fish Fry",
+    "type": "restaurant",
+    "neighborhood": "Versova",
+    "description": "A collection of small Koli-run restaurants in the Versova fishing village that fry the morning's catch and serve it to anyone who shows up with enough courage to find them. The bombil (Bombay duck) fry here is so fresh it tastes nothing like the dried version. No reservation possible, no signage in English.",
+    "vibe": 9.0,
+    "localLove": 9.7,
+    "uniqueness": 9.3,
+    "tags": [
+      "koli fish fry",
+      "versova",
+      "bombay duck",
+      "no english signage",
+      "fresh catch"
+    ],
+    "tip": "Walk through the Versova Koliwada village after 11am. Follow the smell of frying fish. Point at the fish on display.",
+    "status": "approved",
+    "agentIcon": "🌿",
+    "discoveredBy": "Juhu / Versova / Andheri West",
+    "lat": 19.116,
+    "lng": 72.8112,
+    "maps_url": "https://www.google.com/maps?q=19.1160,72.8112",
+    "transport": [
+      {
+        "line": "Metro Line 1",
+        "station": "Versova",
+        "walk_min": 15
+      }
+    ]
+  },
+  {
+    "id": "mag5-1",
+    "cityId": "mumbai",
+    "name": "Juhu Beach Bhel",
+    "type": "market",
+    "neighborhood": "Juhu",
+    "description": "The evening bhel-puri economy of Juhu beach is the real Juhu — not the five-star hotels. After 5pm, a kilometre of vendors set up on the sand: bhel, pav bhaji, roasted corn, sugarcane juice, cut mango with chilli. The sunset behind the Arabian Sea from here is the city's most democratic pleasure.",
+    "vibe": 9.2,
+    "localLove": 9.6,
+    "uniqueness": 7.9,
+    "tags": [
+      "bhel",
+      "beach",
+      "sunset",
+      "evening",
+      "sugarcane juice",
+      "pav bhaji"
+    ],
+    "tip": "Arrive at 6pm for the best light and the widest selection before popular stalls sell out. The bhel wallahs who mix in front of you are doing it fresh.",
+    "status": "approved",
+    "agentIcon": "🌿",
+    "discoveredBy": "Juhu / Versova / Andheri West",
+    "lat": 19.0953,
+    "lng": 72.8267,
+    "maps_url": "https://www.google.com/maps?q=19.0953,72.8267",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Vile Parle",
+        "walk_min": 18
+      }
+    ]
+  },
+  {
+    "id": "mag5-2",
+    "cityId": "mumbai",
+    "name": "Shree Thaker Bhojanalay",
+    "type": "restaurant",
+    "neighborhood": "Kalbadevi / Bhuleshwar",
+    "description": "A Gujarati thali institution where the unlimited meal — dal, sabzi, rotli, khichdi, kadhi, accompaniments, and papad — rotates daily with seasonal vegetables sourced from Gujarat. The thali is served on a silver plate. Refills come before you ask. The food tastes like a large family fed you.",
+    "vibe": 9.0,
+    "localLove": 9.5,
+    "uniqueness": 8.8,
+    "tags": [
+      "gujarati thali",
+      "unlimited",
+      "silver plate",
+      "kalbadevi",
+      "seasonal vegetarian"
+    ],
+    "tip": "Go for lunch. Tell them dietary restrictions upfront. The dal-baati-churma on Sundays is the special occasion version.",
+    "status": "approved",
+    "agentIcon": "🌿",
+    "discoveredBy": "Juhu / Versova / Andheri West",
+    "lat": 18.9531,
+    "lng": 72.8207,
+    "maps_url": "https://www.google.com/maps?q=18.9531,72.8207",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Marine Lines",
+        "walk_min": 14
+      }
+    ]
+  },
+  {
+    "id": "mag5-3",
+    "cityId": "mumbai",
+    "name": "Lokhandwala Complex Street Market",
+    "type": "market",
+    "neighborhood": "Andheri West, Lokhandwala",
+    "description": "A daily market in the lanes of Lokhandwala Complex where the film industry's supporting economy shops — costume assistants, makeup artists, set dressers buying props. The fabric lanes sell the same Bollywood costume materials at a fraction of the retail price.",
+    "vibe": 8.3,
+    "localLove": 9.2,
+    "uniqueness": 8.2,
+    "tags": [
+      "lokhandwala",
+      "film industry",
+      "fabric lanes",
+      "prop market",
+      "andheri west"
+    ],
+    "tip": "Weekday mornings when the film production buyers are there. The fabric lane on the north side has the best costume silks.",
+    "status": "approved",
+    "agentIcon": "🌿",
+    "discoveredBy": "Juhu / Versova / Andheri West",
+    "lat": 19.1366,
+    "lng": 72.8337,
+    "maps_url": "https://www.google.com/maps?q=19.1366,72.8337",
+    "transport": [
+      {
+        "line": "Metro Line 1",
+        "station": "Azad Nagar",
+        "walk_min": 11
+      }
+    ]
+  },
+  {
+    "id": "mag5-4",
+    "cityId": "mumbai",
+    "name": "Andheri Gymkhana Evening",
+    "type": "experience",
+    "neighborhood": "Andheri West",
+    "description": "A colonial-era sports club in Andheri where locals play cricket, badminton, and carrom in the evening while other members drink beer in the members' bar with the wooden overhead fans still original. Membership is cheap and open. The atmosphere is 1970s Mumbai and no-one is trying to change it.",
+    "vibe": 8.8,
+    "localLove": 9.3,
+    "uniqueness": 9.1,
+    "tags": [
+      "gymkhana",
+      "colonial era",
+      "carrom",
+      "cricket",
+      "1970s atmosphere"
+    ],
+    "tip": "Apply for temporary membership at the front desk — possible for a week at modest cost. The evening bar is the reason to stay.",
+    "status": "approved",
+    "agentIcon": "🌿",
+    "discoveredBy": "Juhu / Versova / Andheri West",
+    "lat": 19.1165,
+    "lng": 72.8427,
+    "maps_url": "https://www.google.com/maps?q=19.1165,72.8427",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Andheri",
+        "walk_min": 11
+      }
+    ]
+  },
+  {
+    "id": "mag5-5",
+    "cityId": "mumbai",
+    "name": "New Kulfi Centre, Andheri",
+    "type": "restaurant",
+    "neighborhood": "Andheri West",
+    "description": "A kulfi shop that has been serving the Andheri community since 1957, making kulfi the traditional way — full-fat milk reduced over five hours, poured into tin moulds, and frozen in a salt-ice bath. The malai and mango varieties are perfect. No soft serve, no modern flavours.",
+    "vibe": 8.6,
+    "localLove": 9.4,
+    "uniqueness": 8.7,
+    "tags": [
+      "kulfi",
+      "1957",
+      "tin moulds",
+      "salt ice",
+      "malai mango",
+      "traditional method"
+    ],
+    "tip": "The malai kulfi is the benchmark. Come in the evening — it's served from 5pm. The falooda is also from a long recipe.",
+    "status": "approved",
+    "agentIcon": "🌿",
+    "discoveredBy": "Juhu / Versova / Andheri West",
+    "lat": 19.1195,
+    "lng": 72.8462,
+    "maps_url": "https://www.google.com/maps?q=19.1195,72.8462",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Andheri",
+        "walk_min": 9
+      }
+    ]
+  },
+  {
+    "id": "mag5-6",
+    "cityId": "mumbai",
+    "name": "DN Nagar Sabzi Market",
+    "type": "market",
+    "neighborhood": "Andheri West, DN Nagar",
+    "description": "A wholesale vegetable market that operates from 4am and supplies the restaurants of the entire western suburbs. The variety of local Maharashtra vegetables — tondli, karela, surti papdi, raw turmeric — is broader than any supermarket. Prices are source-adjacent.",
+    "vibe": 8.1,
+    "localLove": 9.5,
+    "uniqueness": 8.4,
+    "tags": [
+      "wholesale vegetables",
+      "4am",
+      "western suburbs",
+      "raw turmeric",
+      "source price"
+    ],
+    "tip": "Go at 5-6am with a large bag. The surti papdi in November and raw turmeric in winter are the seasonal reasons.",
+    "status": "approved",
+    "agentIcon": "🌿",
+    "discoveredBy": "Juhu / Versova / Andheri West",
+    "lat": 19.1201,
+    "lng": 72.8385,
+    "maps_url": "https://www.google.com/maps?q=19.1201,72.8385",
+    "transport": [
+      {
+        "line": "Metro Line 1",
+        "station": "DN Nagar",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "mag5-7",
+    "cityId": "mumbai",
+    "name": "Madh Island Ferry & Lunch",
+    "type": "experience",
+    "neighborhood": "Madh Island",
+    "description": "A 15-minute fishing boat ride from Marve Beach to Madh Island — still largely undeveloped, home to the Koli fishing village, and lined with informal seafood restaurants that fry the morning catch to order. The ferry costs ₹10. The fish thali at the village restaurant costs ₹120. The afternoon silence is free.",
+    "vibe": 9.6,
+    "localLove": 9.4,
+    "uniqueness": 9.5,
+    "tags": [
+      "island ferry",
+      "koli village",
+      "fish thali",
+      "madh island",
+      "₹10 ferry"
+    ],
+    "tip": "Take the ferry from Marve Beach. Walk 10 minutes into the village. The restaurant on the left with the plastic chairs and no signage.",
+    "status": "approved",
+    "agentIcon": "🌿",
+    "discoveredBy": "Juhu / Versova / Andheri West",
+    "lat": 19.1622,
+    "lng": 72.7994,
+    "maps_url": "https://www.google.com/maps?q=19.1622,72.7994",
+    "transport": [
+      {
+        "line": "Bus to Marve",
+        "station": "Marve Beach then ₹10 ferry",
+        "walk_min": 0
+      }
+    ]
+  },
+  {
+    "id": "mag5-8",
+    "cityId": "mumbai",
+    "name": "Nataraj Hotel, Andheri",
+    "type": "restaurant",
+    "neighborhood": "Andheri East",
+    "description": "A no-frills Punjabi dhaba behind Andheri station that has been feeding construction workers, taxi drivers, and budget travellers since 1968. The butter chicken was invented for exactly this kind of cook — a large karahi, a wood fire, and no time for pretension. Dinner for two under ₹400.",
+    "vibe": 8.2,
+    "localLove": 9.4,
+    "uniqueness": 7.9,
+    "tags": [
+      "punjabi dhaba",
+      "butter chicken",
+      "1968",
+      "andheri east",
+      "construction workers"
+    ],
+    "tip": "The butter chicken with roomali roti. Evening after 8pm when the kitchen is in full rhythm.",
+    "status": "approved",
+    "agentIcon": "🌿",
+    "discoveredBy": "Juhu / Versova / Andheri West",
+    "lat": 19.1142,
+    "lng": 72.8477,
+    "maps_url": "https://www.google.com/maps?q=19.1142,72.8477",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Andheri",
+        "walk_min": 6
+      }
+    ]
+  },
+  {
+    "id": "mag5-9",
+    "cityId": "mumbai",
+    "name": "Filmistan Studio Gates",
+    "type": "experience",
+    "neighborhood": "Goregaon East",
+    "description": "A working Bollywood production complex operating from the 1940s where you can watch extras assembling, costume trucks being loaded, and the controlled chaos of a film set during shooting days — all visible from the gates. Not a studio tour, just the real thing.",
+    "vibe": 8.8,
+    "localLove": 8.6,
+    "uniqueness": 9.0,
+    "tags": [
+      "bollywood",
+      "1940s studio",
+      "film set",
+      "extras",
+      "goregaon"
+    ],
+    "tip": "Arrive at 8am on a weekday when shoots are active. The extras assembling at the gate around 7:30am is the most interesting spectacle.",
+    "status": "approved",
+    "agentIcon": "🌿",
+    "discoveredBy": "Juhu / Versova / Andheri West",
+    "lat": 19.1574,
+    "lng": 72.8559,
+    "maps_url": "https://www.google.com/maps?q=19.1574,72.8559",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Goregaon",
+        "walk_min": 15
+      }
+    ]
+  },
+  {
+    "id": "mag6-0",
+    "cityId": "mumbai",
+    "name": "Parsi Dairy Farm",
+    "type": "restaurant",
+    "neighborhood": "Princess Street, Marine Lines",
+    "description": "A Parsi-owned dairy that has been making malai, cream, curd, and paneer on the premises since 1915. The counter sells fresh items by weight at 8am when the day's production is ready. The thick cream from the separator is sold in small tins and is arguably the finest dairy product available in Mumbai.",
+    "vibe": 9.1,
+    "localLove": 9.5,
+    "uniqueness": 9.4,
+    "tags": [
+      "parsi dairy",
+      "1915",
+      "fresh cream",
+      "malai",
+      "paneer",
+      "marine lines"
+    ],
+    "tip": "Go at 8am when fresh items come out. The thick cream in tin is the thing to buy. The malai kulfi they make on-site is served from 10am.",
+    "status": "approved",
+    "agentIcon": "⚡",
+    "discoveredBy": "Andheri East / Kurla / Ghatkopar",
+    "lat": 18.9449,
+    "lng": 72.8253,
+    "maps_url": "https://www.google.com/maps?q=18.9449,72.8253",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Marine Lines",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "mag6-1",
+    "cityId": "mumbai",
+    "name": "Kurla Mutton Market",
+    "type": "market",
+    "neighborhood": "Kurla West",
+    "description": "A wholesale meat market operating before dawn where butchers from across the eastern suburbs source their daily supply. The market operates entirely in Marathi and Urdu. By 7am the best cuts are already gone. The qorma spice sellers at the market entrance are sourcing from the same suppliers as the city's best restaurants.",
+    "vibe": 8.6,
+    "localLove": 9.6,
+    "uniqueness": 8.9,
+    "tags": [
+      "wholesale meat",
+      "butchers",
+      "dawn",
+      "kurla",
+      "marathi urdu"
+    ],
+    "tip": "Go at 5:30am. The mutton vendors from the rear of the market are selling to restaurants — those are the quality cuts.",
+    "status": "approved",
+    "agentIcon": "⚡",
+    "discoveredBy": "Andheri East / Kurla / Ghatkopar",
+    "lat": 19.0738,
+    "lng": 72.8786,
+    "maps_url": "https://www.google.com/maps?q=19.0738,72.8786",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Kurla",
+        "walk_min": 11
+      }
+    ]
+  },
+  {
+    "id": "mag6-2",
+    "cityId": "mumbai",
+    "name": "Ghatkopar Food Street",
+    "type": "market",
+    "neighborhood": "Ghatkopar West",
+    "description": "A dense corridor of Gujarati and Jain street food vendors near Ghatkopar station that operates evening to midnight. The pani puri quality here matches Juhu; the sev puri is better. The vendors have been in the same spots for 30 years and the pricing has barely moved.",
+    "vibe": 8.4,
+    "localLove": 9.5,
+    "uniqueness": 8.0,
+    "tags": [
+      "gujarati street food",
+      "jain",
+      "pani puri",
+      "sev puri",
+      "ghatkopar",
+      "30 years"
+    ],
+    "tip": "Go at 7-9pm when it's busy enough that everything is fresh. The sev puri vendor with the aluminium counter is the institution.",
+    "status": "approved",
+    "agentIcon": "⚡",
+    "discoveredBy": "Andheri East / Kurla / Ghatkopar",
+    "lat": 19.0872,
+    "lng": 72.9098,
+    "maps_url": "https://www.google.com/maps?q=19.0872,72.9098",
+    "transport": [
+      {
+        "line": "Metro Line 1",
+        "station": "Ghatkopar",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "mag6-3",
+    "cityId": "mumbai",
+    "name": "Vikhroli Parkside",
+    "type": "experience",
+    "neighborhood": "Vikhroli",
+    "description": "A converted mill compound in Vikhroli that houses a community of architects, designers, and craftspeople in a landscape designed by landscape architects Studio Land+Civilization. The public path through the compound passes workshops, a craft school, and a small farm. Completely free to walk through.",
+    "vibe": 8.8,
+    "localLove": 8.3,
+    "uniqueness": 9.1,
+    "tags": [
+      "converted mill",
+      "vikhroli",
+      "designers",
+      "craft school",
+      "free walk"
+    ],
+    "tip": "Monday to Saturday 9am-5pm. Walk all the way to the back of the compound where the farm and workshop section is.",
+    "status": "approved",
+    "agentIcon": "⚡",
+    "discoveredBy": "Andheri East / Kurla / Ghatkopar",
+    "lat": 19.11,
+    "lng": 72.9311,
+    "maps_url": "https://www.google.com/maps?q=19.1100,72.9311",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Vikhroli",
+        "walk_min": 12
+      }
+    ]
+  },
+  {
+    "id": "mag6-4",
+    "cityId": "mumbai",
+    "name": "Andheri East Dhaba Row",
+    "type": "market",
+    "neighborhood": "MIDC Andheri East",
+    "description": "A strip of roadside dhabas along the MIDC industrial estate that feed the night shift workers of the area's factories from 10pm to 5am. Tadka dal, roti on a tawa, egg bhurji, and chai served on portable stoves. The clientele is factory workers from UP and Bihar whose food standards are exacting.",
+    "vibe": 8.7,
+    "localLove": 9.7,
+    "uniqueness": 8.8,
+    "tags": [
+      "dhaba",
+      "night shift workers",
+      "MIDC",
+      "10pm-5am",
+      "up bihar food"
+    ],
+    "tip": "Go after midnight. The dal tadka and tawa roti from the dhaba run by the Gorakhpur family — recognisable by the copper-coloured tawa.",
+    "status": "approved",
+    "agentIcon": "⚡",
+    "discoveredBy": "Andheri East / Kurla / Ghatkopar",
+    "lat": 19.1176,
+    "lng": 72.8681,
+    "maps_url": "https://www.google.com/maps?q=19.1176,72.8681",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Andheri",
+        "walk_min": 16
+      }
+    ]
+  },
+  {
+    "id": "mag6-5",
+    "cityId": "mumbai",
+    "name": "CSIA Airport Observation Lounge",
+    "type": "experience",
+    "neighborhood": "Santacruz East / Airport",
+    "description": "The public observation area on the roof of Terminal 2 that is almost never used. The view of the runway and incoming aircraft with the Western Ghats behind on clear days is extraordinary. Access through T2 after clearing security with a valid same-day boarding pass — but the café is accessible to all.",
+    "vibe": 8.3,
+    "localLove": 7.5,
+    "uniqueness": 9.0,
+    "tags": [
+      "airport observation",
+      "runway view",
+      "terminal 2",
+      "free with boarding pass",
+      "western ghats"
+    ],
+    "tip": "Use a free lounge-access credit card or buy the cheapest domestic flight. The 6am to 8am landing wave is the most impressive viewing window.",
+    "status": "approved",
+    "agentIcon": "⚡",
+    "discoveredBy": "Andheri East / Kurla / Ghatkopar",
+    "lat": 19.0896,
+    "lng": 72.8656,
+    "maps_url": "https://www.google.com/maps?q=19.0896,72.8656",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Santacruz",
+        "walk_min": 20
+      }
+    ]
+  },
+  {
+    "id": "mag6-6",
+    "cityId": "mumbai",
+    "name": "Sion Koliwada",
+    "type": "experience",
+    "neighborhood": "Sion",
+    "description": "A Koli fishing village within Sion — one of the oldest settled communities in Mumbai, predating Portugeuse colonisation. The village temple, the fish market at the base, and the community well are all still active. The raised Sion Fort above offers a view across the mangrove estuary that most Mumbai residents don't know exists.",
+    "vibe": 9.0,
+    "localLove": 9.2,
+    "uniqueness": 9.3,
+    "tags": [
+      "koli village",
+      "sion",
+      "pre-colonial",
+      "fort view",
+      "mangrove estuary"
+    ],
+    "tip": "Climb the Sion Fort for the mangrove view. The village fish market operates from 6-9am. Ask permission before photographing residents.",
+    "status": "approved",
+    "agentIcon": "⚡",
+    "discoveredBy": "Andheri East / Kurla / Ghatkopar",
+    "lat": 19.0414,
+    "lng": 72.863,
+    "maps_url": "https://www.google.com/maps?q=19.0414,72.8630",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sion",
+        "walk_min": 9
+      }
+    ]
+  },
+  {
+    "id": "mag6-7",
+    "cityId": "mumbai",
+    "name": "Chembur Sindhi Colony Market",
+    "type": "market",
+    "neighborhood": "Chembur",
+    "description": "A Sindhi refugee colony market that has been operating since partition — the community brought their wholesale trading skills from Karachi and Hyderabad Sindh. The market sells goods that don't exist in other parts of Mumbai: sindhi embroidery, specific spice mixes, and bindis produced by cottage industries in the colony.",
+    "vibe": 8.5,
+    "localLove": 9.1,
+    "uniqueness": 9.2,
+    "tags": [
+      "sindhi colony",
+      "partition market",
+      "karachi",
+      "sindhi embroidery",
+      "cottage industry"
+    ],
+    "tip": "Saturday mornings are fullest. The spice lane sells sindhi mix masalas unavailable anywhere else in Mumbai.",
+    "status": "approved",
+    "agentIcon": "⚡",
+    "discoveredBy": "Andheri East / Kurla / Ghatkopar",
+    "lat": 19.06,
+    "lng": 72.8994,
+    "maps_url": "https://www.google.com/maps?q=19.0600,72.8994",
+    "transport": [
+      {
+        "line": "Harbour Line",
+        "station": "Chembur",
+        "walk_min": 13
+      }
+    ]
+  },
+  {
+    "id": "mag6-8",
+    "cityId": "mumbai",
+    "name": "Trombay Mangrove Walk",
+    "type": "experience",
+    "neighborhood": "Trombay / Chembur",
+    "description": "A 4km walking trail through the mangrove belt along the Thane Creek at Trombay — one of the largest intact mangrove stands accessible from Mumbai. Flamingos in winter, mudskippers year-round, and a silence that makes it incomprehensible that you're 18km from the Gateway of India.",
+    "vibe": 9.3,
+    "localLove": 8.7,
+    "uniqueness": 9.4,
+    "tags": [
+      "mangroves",
+      "flamingos",
+      "walking trail",
+      "trombay",
+      "thane creek"
+    ],
+    "tip": "Early morning October to February for flamingos. Wear closed shoes. The path starts at the Trombay village entrance near the fire station.",
+    "status": "approved",
+    "agentIcon": "⚡",
+    "discoveredBy": "Andheri East / Kurla / Ghatkopar",
+    "lat": 19.0381,
+    "lng": 72.939,
+    "maps_url": "https://www.google.com/maps?q=19.0381,72.9390",
+    "transport": [
+      {
+        "line": "Harbour Line",
+        "station": "Chembur + auto",
+        "walk_min": 0
+      }
+    ]
+  },
+  {
+    "id": "mag6-9",
+    "cityId": "mumbai",
+    "name": "Milan Subway Vadapav",
+    "type": "restaurant",
+    "neighborhood": "Santacruz West",
+    "description": "A vadapav stall that has been operating in the Milan Subway underpass since 1975, producing arguably the finest iteration of Mumbai's defining street food. The vada is potato-spiced and deep-fried to order. The chutney is wet and green. No chairs. Cash only. Queue always.",
+    "vibe": 8.9,
+    "localLove": 9.8,
+    "uniqueness": 8.6,
+    "tags": [
+      "vadapav",
+      "1975",
+      "subway stall",
+      "santacruz",
+      "cash only",
+      "queue"
+    ],
+    "tip": "Go at 5pm when the post-school and post-work crowd arrives and everything is freshest. One vadapav with both chutneys.",
+    "status": "approved",
+    "agentIcon": "⚡",
+    "discoveredBy": "Andheri East / Kurla / Ghatkopar",
+    "lat": 19.0817,
+    "lng": 72.8455,
+    "maps_url": "https://www.google.com/maps?q=19.0817,72.8455",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Santacruz",
+        "walk_min": 5
+      }
+    ]
+  },
+  {
+    "id": "mag7-0",
+    "cityId": "mumbai",
+    "name": "Noor Mohammadi Hotel",
+    "type": "restaurant",
+    "neighborhood": "Mohammed Ali Road",
+    "description": "A pre-independence institution on Mohammed Ali Road that serves the city's definitive nihari — a slow-cooked bone broth with marrow, served with roomali roti at 7am. The recipe has not changed since 1923. The crowd from 7-10am is Mumbai's Muslim working class getting the meal before the day starts.",
+    "vibe": 9.4,
+    "localLove": 9.8,
+    "uniqueness": 9.5,
+    "tags": [
+      "nihari",
+      "1923",
+      "bone broth",
+      "morning",
+      "mohammed ali road"
+    ],
+    "tip": "Come at 7am for the opening. Order nihari with paya (trotters). The salan (broth) should be consumed before the meat. Roomali roti only.",
+    "status": "approved",
+    "agentIcon": "🐟",
+    "discoveredBy": "Mohammed Ali Road / Bhendi Bazaar",
+    "lat": 18.9603,
+    "lng": 72.8354,
+    "maps_url": "https://www.google.com/maps?q=18.9603,72.8354",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 12
+      }
+    ]
+  },
+  {
+    "id": "mag7-1",
+    "cityId": "mumbai",
+    "name": "Suleiman Usman Mithaiwala",
+    "type": "restaurant",
+    "neighborhood": "Mohammed Ali Road",
+    "description": "A mithai shop specialising in Bohri sweets and Mughlai desserts that are the benchmark of Mohammed Ali Road's confectionery tradition. The malpua is the thing — fried pancakes soaked in rabdi — and the shahi tukda is a rival for the city's best. The shop interior is 1950s and hasn't changed.",
+    "vibe": 9.2,
+    "localLove": 9.7,
+    "uniqueness": 9.3,
+    "tags": [
+      "bohri sweets",
+      "malpua",
+      "shahi tukda",
+      "1950s shop",
+      "mughlai desserts"
+    ],
+    "tip": "The malpua and the shahi tukda. Go on Ramzan nights for the full street food context.",
+    "status": "approved",
+    "agentIcon": "🐟",
+    "discoveredBy": "Mohammed Ali Road / Bhendi Bazaar",
+    "lat": 18.9607,
+    "lng": 72.8356,
+    "maps_url": "https://www.google.com/maps?q=18.9607,72.8356",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 11
+      }
+    ]
+  },
+  {
+    "id": "mag7-2",
+    "cityId": "mumbai",
+    "name": "Bohri Mohalla Food Lane",
+    "type": "market",
+    "neighborhood": "Bhendi Bazaar",
+    "description": "A narrow lane in the Bohri community's neighbourhood where home cooks sell their speciality Bohri dishes from their doorsteps on weekends — raan, haleem, dal chawal palida, and the exceptional Bohri biryani. It's a community food sharing tradition that has become semi-commercial without losing its character.",
+    "vibe": 9.3,
+    "localLove": 9.6,
+    "uniqueness": 9.7,
+    "tags": [
+      "bohri cuisine",
+      "home cooks",
+      "raan",
+      "haleem",
+      "dal chawal palida",
+      "bhendi bazaar"
+    ],
+    "tip": "Saturday and Sunday from 12-4pm. The dal chawal palida is the rarest dish — a Bohri lentil and rice preparation found nowhere else.",
+    "status": "approved",
+    "agentIcon": "🐟",
+    "discoveredBy": "Mohammed Ali Road / Bhendi Bazaar",
+    "lat": 18.9619,
+    "lng": 72.8342,
+    "maps_url": "https://www.google.com/maps?q=18.9619,72.8342",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 9
+      }
+    ]
+  },
+  {
+    "id": "mag7-3",
+    "cityId": "mumbai",
+    "name": "Minara Masjid Attar Lane",
+    "type": "experience",
+    "neighborhood": "Bhendi Bazaar",
+    "description": "A lane behind Minara Masjid lined with attar (natural perfume) sellers — small bottles of oud, jasmine, rose, and sandalwood concentrated perfume oils, some of which have been produced by the same families for 150 years. The scent of the lane itself is overwhelming in the best way.",
+    "vibe": 9.0,
+    "localLove": 8.9,
+    "uniqueness": 9.6,
+    "tags": [
+      "attar",
+      "natural perfume",
+      "oud",
+      "jasmine",
+      "150 years",
+      "minara masjid"
+    ],
+    "tip": "Go in the morning when new stock is laid out. Ask to smell the oud-heavy blends — the older shops have genuinely extraordinary deep fragrances.",
+    "status": "approved",
+    "agentIcon": "🐟",
+    "discoveredBy": "Mohammed Ali Road / Bhendi Bazaar",
+    "lat": 18.9623,
+    "lng": 72.834,
+    "maps_url": "https://www.google.com/maps?q=18.9623,72.8340",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 10
+      }
+    ]
+  },
+  {
+    "id": "mag7-4",
+    "cityId": "mumbai",
+    "name": "Shalimar Hotel, Colaba",
+    "type": "restaurant",
+    "neighborhood": "Colaba",
+    "description": "A no-frills Muslim restaurant serving the city's best mutton seekh rolls — a spiced minced mutton wrapped in a flaky paratha — along with perfectly executed haleem and a biryani that shows up better restaurants. The room is fluorescent-lit and the prices are from 1995.",
+    "vibe": 8.6,
+    "localLove": 9.4,
+    "uniqueness": 8.5,
+    "tags": [
+      "mutton seekh roll",
+      "haleem",
+      "biryani",
+      "no frills",
+      "1995 prices",
+      "colaba"
+    ],
+    "tip": "The seekh roll and the haleem. Go for a late lunch 2-4pm when the biryani is at its best.",
+    "status": "approved",
+    "agentIcon": "🐟",
+    "discoveredBy": "Mohammed Ali Road / Bhendi Bazaar",
+    "lat": 18.9196,
+    "lng": 72.8319,
+    "maps_url": "https://www.google.com/maps?q=18.9196,72.8319",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Colaba Causeway",
+        "walk_min": 6
+      }
+    ]
+  },
+  {
+    "id": "mag7-5",
+    "cityId": "mumbai",
+    "name": "Handi Restaurant, Nagpada",
+    "type": "restaurant",
+    "neighborhood": "Nagpada",
+    "description": "A hole-in-the-wall restaurant in Nagpada serving Mughlai food cooked in a wood-fired handi (clay pot) — a method increasingly rare in the city. The dal makhani simmers for 12 hours, the shahi paneer is made with reduced cream, and the naan comes off a clay tandoor still using charcoal.",
+    "vibe": 8.8,
+    "localLove": 9.5,
+    "uniqueness": 9.0,
+    "tags": [
+      "wood fired handi",
+      "clay pot",
+      "12 hour dal",
+      "charcoal tandoor",
+      "nagpada"
+    ],
+    "tip": "The dal makhani and the shahi paneer with naan. Go for dinner when the wood fire is at its hottest.",
+    "status": "approved",
+    "agentIcon": "🐟",
+    "discoveredBy": "Mohammed Ali Road / Bhendi Bazaar",
+    "lat": 18.9657,
+    "lng": 72.83,
+    "maps_url": "https://www.google.com/maps?q=18.9657,72.8300",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 16
+      }
+    ]
+  },
+  {
+    "id": "mag7-6",
+    "cityId": "mumbai",
+    "name": "Pyaala Chai, Mohammed Ali Road",
+    "type": "restaurant",
+    "neighborhood": "Mohammed Ali Road",
+    "description": "A tea house operating from a shopfront on Mohammed Ali Road that makes Kashmiri noon chai — the pink milk tea — and saffron chai alongside traditional Mughlai breakfast breads. The noon chai here has been pink for 60 years and anyone who says it should be thinner has not drunk this version.",
+    "vibe": 8.7,
+    "localLove": 9.3,
+    "uniqueness": 9.1,
+    "tags": [
+      "noon chai",
+      "pink tea",
+      "saffron chai",
+      "kashmiri",
+      "60 years",
+      "mughlai breakfast"
+    ],
+    "tip": "The noon chai (order it bolder, not the tourist version). Pair with the sheermal bread that comes out at 8am.",
+    "status": "approved",
+    "agentIcon": "🐟",
+    "discoveredBy": "Mohammed Ali Road / Bhendi Bazaar",
+    "lat": 18.9598,
+    "lng": 72.8348,
+    "maps_url": "https://www.google.com/maps?q=18.9598,72.8348",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 13
+      }
+    ]
+  },
+  {
+    "id": "mag7-7",
+    "cityId": "mumbai",
+    "name": "Chor Bazaar Leather Lane",
+    "type": "market",
+    "neighborhood": "Chor Bazaar",
+    "description": "The leather goods section of Chor Bazaar where craftsmen repair and re-sell vintage leather — Bollywood-era trunks, colonial briefcases, army kit bags — alongside new goods made using old techniques. The restoration workshops at the back of the lane are where craftsmen using 19th-century tools fix things most people would throw away.",
+    "vibe": 8.8,
+    "localLove": 9.0,
+    "uniqueness": 9.0,
+    "tags": [
+      "leather lane",
+      "chor bazaar",
+      "vintage trunks",
+      "restoration workshop",
+      "bollywood era"
+    ],
+    "tip": "Go to the back of the lane to the restoration workshops — you can commission repairs at rates that make sense. Friday morning for new arrivals.",
+    "status": "approved",
+    "agentIcon": "🐟",
+    "discoveredBy": "Mohammed Ali Road / Bhendi Bazaar",
+    "lat": 18.9604,
+    "lng": 72.8307,
+    "maps_url": "https://www.google.com/maps?q=18.9604,72.8307",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "mag7-8",
+    "cityId": "mumbai",
+    "name": "Minara Masjid Sehri Market",
+    "type": "market",
+    "neighborhood": "Mohammed Ali Road",
+    "description": "The pre-dawn market during Ramzan that sets up at 3:30am to feed the community before the fast begins. Operates for only 40 nights a year and produces the most extraordinary temporary food culture in the city — dates, paya soup, sheer korma, and fresh fruit juices in the absolute darkness before dawn.",
+    "vibe": 9.7,
+    "localLove": 9.9,
+    "uniqueness": 9.8,
+    "tags": [
+      "ramzan only",
+      "3am market",
+      "sehri",
+      "dates",
+      "sheer korma",
+      "40 nights only"
+    ],
+    "tip": "Ramzan only, 3:30-5am. The paya soup vendor near the mosque entrance has been doing this for 30 years. Bring cash, nothing else needed.",
+    "status": "approved",
+    "agentIcon": "🐟",
+    "discoveredBy": "Mohammed Ali Road / Bhendi Bazaar",
+    "lat": 18.9621,
+    "lng": 72.8341,
+    "maps_url": "https://www.google.com/maps?q=18.9621,72.8341",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 10
+      }
+    ]
+  },
+  {
+    "id": "mag7-9",
+    "cityId": "mumbai",
+    "name": "Mahrooh Sharbat Shop",
+    "type": "restaurant",
+    "neighborhood": "Mohammed Ali Road",
+    "description": "A sharbat specialist operating from a narrow shopfront that makes 22 varieties of traditional sherbet from scratch — rose, khus, tamarind, sandalwood, falsa — using no artificial flavours or colours. The cooling drinks are exactly what the Mohammed Ali Road heat requires and nothing like the synthetic versions sold elsewhere.",
+    "vibe": 8.9,
+    "localLove": 9.4,
+    "uniqueness": 9.3,
+    "tags": [
+      "sharbat",
+      "22 varieties",
+      "rose",
+      "khus",
+      "tamarind",
+      "no artificial",
+      "sandalwood"
+    ],
+    "tip": "The sandalwood sharbat and the khus (vetiver). Come in the afternoon when the heat makes them medicinal.",
+    "status": "approved",
+    "agentIcon": "🐟",
+    "discoveredBy": "Mohammed Ali Road / Bhendi Bazaar",
+    "lat": 18.9601,
+    "lng": 72.8352,
+    "maps_url": "https://www.google.com/maps?q=18.9601,72.8352",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sandhurst Road",
+        "walk_min": 12
+      }
+    ]
+  },
+  {
+    "id": "mag8-0",
+    "cityId": "mumbai",
+    "name": "Kamat Samarambh",
+    "type": "restaurant",
+    "neighborhood": "Dadar West",
+    "description": "A legendary Maharashtrian thali restaurant that serves the complete regional meal — five bhakri (sorghum flatbread), six sabzis, two dals, koshimbir, papad, and kokum sol kadhi — to a crowd of office workers and local families. The thali has not changed in 35 years and is non-negotiable.",
+    "vibe": 8.9,
+    "localLove": 9.6,
+    "uniqueness": 8.8,
+    "tags": [
+      "maharashtrian thali",
+      "bhakri",
+      "kokum sol kadhi",
+      "dadar west",
+      "35 years",
+      "non-negotiable"
+    ],
+    "tip": "Lunch only, 12-3pm. Tell them vegetarian or not at entry. The sorghum bhakri with the zunka (dry chickpea flour sabzi) is the essential combination.",
+    "status": "approved",
+    "agentIcon": "🎭",
+    "discoveredBy": "Dadar / Shivaji Park / Mahim",
+    "lat": 19.0188,
+    "lng": 72.8418,
+    "maps_url": "https://www.google.com/maps?q=19.0188,72.8418",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Dadar",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "mag8-1",
+    "cityId": "mumbai",
+    "name": "Shivaji Park Morning Walk",
+    "type": "experience",
+    "neighborhood": "Shivaji Park, Dadar",
+    "description": "Mumbai's most politically significant public ground — where rallies have shaped the city's history — transforms before 7am into its daily democratic function: 8,000 morning walkers doing rounds, cricket practice on every grass patch, old men arguing about cricket, and a chain of chai stalls at the perimeter.",
+    "vibe": 9.2,
+    "localLove": 9.7,
+    "uniqueness": 8.6,
+    "tags": [
+      "shivaji park",
+      "morning walk",
+      "cricket practice",
+      "political ground",
+      "democratic"
+    ],
+    "tip": "Be there at 6am. The perimeter walk takes 35 minutes. The political history is visible in the sculptures and signboards around the edge.",
+    "status": "approved",
+    "agentIcon": "🎭",
+    "discoveredBy": "Dadar / Shivaji Park / Mahim",
+    "lat": 19.0214,
+    "lng": 72.8421,
+    "maps_url": "https://www.google.com/maps?q=19.0214,72.8421",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Dadar",
+        "walk_min": 11
+      }
+    ]
+  },
+  {
+    "id": "mag8-2",
+    "cityId": "mumbai",
+    "name": "Dadar Flower Market",
+    "type": "market",
+    "neighborhood": "Dadar West",
+    "description": "The wholesale flower market underneath Dadar's flyover — one of the largest flower markets in Asia — where garlands, loose flowers, and floral arrangements for temples, weddings, and funerals move before dawn. At 4am, the marigold and jasmine batches arrive and the entire area smells extraordinary.",
+    "vibe": 9.4,
+    "localLove": 9.6,
+    "uniqueness": 9.0,
+    "tags": [
+      "flower market",
+      "4am",
+      "wholesale",
+      "marigold",
+      "jasmine",
+      "asia's largest"
+    ],
+    "tip": "4-5am is the peak. Walk slowly and get out of the way of the cart pullers. The price difference between retail and wholesale is remarkable.",
+    "status": "approved",
+    "agentIcon": "🎭",
+    "discoveredBy": "Dadar / Shivaji Park / Mahim",
+    "lat": 19.019,
+    "lng": 72.8399,
+    "maps_url": "https://www.google.com/maps?q=19.0190,72.8399",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Dadar",
+        "walk_min": 6
+      }
+    ]
+  },
+  {
+    "id": "mag8-3",
+    "cityId": "mumbai",
+    "name": "Mithibai Misal",
+    "type": "restaurant",
+    "neighborhood": "Vile Parle West",
+    "description": "The misal debate in Mumbai is unending, but Mithibai's has a consistent argument — the tarri (the red spiced broth that tops the moth bean sprouts) is made fresh twice daily and the farsan garnish is a house recipe. Breakfast only, open from 7am, closed by 11am when it runs out.",
+    "vibe": 8.7,
+    "localLove": 9.5,
+    "uniqueness": 8.5,
+    "tags": [
+      "misal",
+      "tarri",
+      "7am-11am",
+      "runs out early",
+      "vile parle west"
+    ],
+    "tip": "Go at 7:30am. The full misal with extra tarri and fresh bread. It runs out by 10am on weekends.",
+    "status": "approved",
+    "agentIcon": "🎭",
+    "discoveredBy": "Dadar / Shivaji Park / Mahim",
+    "lat": 19.1068,
+    "lng": 72.8325,
+    "maps_url": "https://www.google.com/maps?q=19.1068,72.8325",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Vile Parle",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "mag8-4",
+    "cityId": "mumbai",
+    "name": "Mahim Dargah Evening",
+    "type": "experience",
+    "neighborhood": "Mahim",
+    "description": "The dargah of Makhdoom Ali Mahimi, the 15th-century saint credited with protecting the city. In the evenings the causeway approach fills with vendors selling roses, agarbatti, and qawwali music from the inner courtyard drifts out to the sea. Visitors of every faith come.",
+    "vibe": 9.3,
+    "localLove": 9.2,
+    "uniqueness": 8.8,
+    "tags": [
+      "dargah",
+      "qawwali",
+      "15th century saint",
+      "mahim",
+      "evening",
+      "rose sellers"
+    ],
+    "tip": "Thursday evening for live qawwali. Enter quietly, remove shoes. The rose vendors at the entrance sell the offering garlands.",
+    "status": "approved",
+    "agentIcon": "🎭",
+    "discoveredBy": "Dadar / Shivaji Park / Mahim",
+    "lat": 19.0381,
+    "lng": 72.8394,
+    "maps_url": "https://www.google.com/maps?q=19.0381,72.8394",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Mahim",
+        "walk_min": 9
+      }
+    ]
+  },
+  {
+    "id": "mag8-5",
+    "cityId": "mumbai",
+    "name": "Ashok Vada Pav, Dadar",
+    "type": "restaurant",
+    "neighborhood": "Dadar East",
+    "description": "The most serious argument for any single vadapav stall in the city — Ashok's has been at the same spot outside Dadar station since 1965 and the queue at 8am tells you everything. The dry chutney is the differentiator: a combination of dried coconut, garlic, and chilli ground to a consistency that makes other chutneys seem lazy.",
+    "vibe": 9.0,
+    "localLove": 9.9,
+    "uniqueness": 8.7,
+    "tags": [
+      "vadapav",
+      "1965",
+      "dadar station",
+      "dry chutney",
+      "queue",
+      "the best argument"
+    ],
+    "tip": "7:30-9am before office hours. One vadapav with both chutneys. The dry coconut-garlic chutney is applied separately — ask for double.",
+    "status": "approved",
+    "agentIcon": "🎭",
+    "discoveredBy": "Dadar / Shivaji Park / Mahim",
+    "lat": 19.021,
+    "lng": 72.8447,
+    "maps_url": "https://www.google.com/maps?q=19.0210,72.8447",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Dadar",
+        "walk_min": 2
+      }
+    ]
+  },
+  {
+    "id": "mag8-6",
+    "cityId": "mumbai",
+    "name": "Gadkari Rangayatan Theatre",
+    "type": "experience",
+    "neighborhood": "Thane",
+    "description": "A Marathi-language theatre in Thane that has been staging Marathi plays — the city's literary and political theatre tradition — for 50 years. The productions are entirely in Marathi, tickets cost ₹100, and the post-show discussion in the lobby is better than the shows at some English-language venues.",
+    "vibe": 8.8,
+    "localLove": 9.4,
+    "uniqueness": 9.1,
+    "tags": [
+      "marathi theatre",
+      "thane",
+      "50 years",
+      "₹100 tickets",
+      "political drama"
+    ],
+    "tip": "Book at the box office on the day. The Saturday evening show is the social event for Thane's Maharashtrian intelligentsia.",
+    "status": "approved",
+    "agentIcon": "🎭",
+    "discoveredBy": "Dadar / Shivaji Park / Mahim",
+    "lat": 19.1988,
+    "lng": 72.9678,
+    "maps_url": "https://www.google.com/maps?q=19.1988,72.9678",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Thane",
+        "walk_min": 14
+      }
+    ]
+  },
+  {
+    "id": "mag8-7",
+    "cityId": "mumbai",
+    "name": "Café Sundance",
+    "type": "restaurant",
+    "neighborhood": "Shivaji Park, Dadar",
+    "description": "A Goan-Catholic restaurant near Shivaji Park that has been serving vindaloo, xacuti, and bebinca (Goan layered coconut cake) to the neighbourhood for 40 years. The tables are plastic, the menu is laminated, and the recipes are from a grandmother in Goa who has not visited Mumbai but whose instructions are followed exactly.",
+    "vibe": 8.5,
+    "localLove": 9.3,
+    "uniqueness": 8.7,
+    "tags": [
+      "goan catholic",
+      "vindaloo",
+      "xacuti",
+      "bebinca",
+      "40 years",
+      "dadar"
+    ],
+    "tip": "The xacuti and the bebinca. Sunday lunch is the occasion — call ahead.",
+    "status": "approved",
+    "agentIcon": "🎭",
+    "discoveredBy": "Dadar / Shivaji Park / Mahim",
+    "lat": 19.022,
+    "lng": 72.8411,
+    "maps_url": "https://www.google.com/maps?q=19.0220,72.8411",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Dadar",
+        "walk_min": 10
+      }
+    ]
+  },
+  {
+    "id": "mag8-8",
+    "cityId": "mumbai",
+    "name": "Navratna Bhavan Tea Stall",
+    "type": "restaurant",
+    "neighborhood": "Dadar West",
+    "description": "A tea stall that has been at the same address in Dadar since 1946, serving chai in a glass with one-inch of cream at the top. The cutting chai is 50p cheaper than anywhere nearby because the owner considers the profit margin of ₹1.50 per glass adequate. The conversation around the stall is the city's best free entertainment.",
+    "vibe": 8.9,
+    "localLove": 9.8,
+    "uniqueness": 8.5,
+    "tags": [
+      "cutting chai",
+      "1946",
+      "cream top",
+      "dadar",
+      "₹50p cheaper",
+      "community stall"
+    ],
+    "tip": "Morning 7-10am when the neighbourhood comes for its first glass. Stand at the stall, not in the queue — there's no queue, just the crowd.",
+    "status": "approved",
+    "agentIcon": "🎭",
+    "discoveredBy": "Dadar / Shivaji Park / Mahim",
+    "lat": 19.0183,
+    "lng": 72.841,
+    "maps_url": "https://www.google.com/maps?q=19.0183,72.8410",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Dadar",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "mag8-9",
+    "cityId": "mumbai",
+    "name": "Ruparel College Architecture Walk",
+    "type": "experience",
+    "neighborhood": "Matunga / Mahim",
+    "description": "An informal walk through the Portuguese, British, and Indo-Saracenic architecture of the Matunga-Mahim corridor that traces 500 years of building. The college buildings, the church, the railway quarters, and the water-works are all within 1km and represent the city's layered colonial inheritance.",
+    "vibe": 8.6,
+    "localLove": 8.2,
+    "uniqueness": 8.9,
+    "tags": [
+      "architecture walk",
+      "portuguese",
+      "british",
+      "indo-saracenic",
+      "500 years",
+      "free"
+    ],
+    "tip": "Start at Ruparel College at 8am and walk west toward the church. A free Mumbai Heritage Walk tour does this route on last Sundays.",
+    "status": "approved",
+    "agentIcon": "🎭",
+    "discoveredBy": "Dadar / Shivaji Park / Mahim",
+    "lat": 19.0278,
+    "lng": 72.8376,
+    "maps_url": "https://www.google.com/maps?q=19.0278,72.8376",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Dadar",
+        "walk_min": 14
+      }
+    ]
+  },
+  {
+    "id": "mag9-0",
+    "cityId": "mumbai",
+    "name": "Dharavi Leather District",
+    "type": "experience",
+    "neighborhood": "Dharavi",
+    "description": "A working leather tannery and manufacturing district inside Dharavi where small workshops produce bags, belts, and footwear that ends up in Mumbai's retail stores at three times the price. Leather is sourced, tanned, cut, stitched, and sold in a single square kilometre. The smell of the tanning section is not optional.",
+    "vibe": 8.6,
+    "localLove": 9.2,
+    "uniqueness": 9.5,
+    "tags": [
+      "dharavi",
+      "leather tannery",
+      "manufacturing",
+      "direct purchase",
+      "workshop"
+    ],
+    "tip": "Go with a guide from one of the legitimate community tour organisations. Buy directly from the workshops — the quality is exceptional at source price.",
+    "status": "approved",
+    "agentIcon": "🌙",
+    "discoveredBy": "Dharavi / Sion / Chembur",
+    "lat": 19.0418,
+    "lng": 72.8528,
+    "maps_url": "https://www.google.com/maps?q=19.0418,72.8528",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Mahim Junction",
+        "walk_min": 15
+      }
+    ]
+  },
+  {
+    "id": "mag9-1",
+    "cityId": "mumbai",
+    "name": "RC Church, Sion",
+    "type": "experience",
+    "neighborhood": "Sion",
+    "description": "A Portuguese church from 1606 on the Sion hill that contains the oldest surviving Christian graveyard in the city — epitaphs in Portuguese, Dutch, and English from the 17th century. The church is active and largely unvisited. The hilltop view of the mangrove creek below is exceptional.",
+    "vibe": 8.9,
+    "localLove": 8.1,
+    "uniqueness": 9.5,
+    "tags": [
+      "1606 church",
+      "portuguese",
+      "sion hill",
+      "17th century graves",
+      "mangrove view"
+    ],
+    "tip": "Open Sunday morning and Saturday afternoons. The graveyard is behind the main church — ask the priest to open the gate.",
+    "status": "approved",
+    "agentIcon": "🌙",
+    "discoveredBy": "Dharavi / Sion / Chembur",
+    "lat": 19.0429,
+    "lng": 72.8629,
+    "maps_url": "https://www.google.com/maps?q=19.0429,72.8629",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sion",
+        "walk_min": 12
+      }
+    ]
+  },
+  {
+    "id": "mag9-2",
+    "cityId": "mumbai",
+    "name": "Sion-Chunabhatti Tamil Food Street",
+    "type": "market",
+    "neighborhood": "Sion-Chunabhatti",
+    "description": "A strip of Tamil food vendors near Sion-Chunabhatti that serve the migrant Tamil community working in the eastern suburbs. Idiyappam with coconut milk, kuzhambu with fresh grated coconut, and Tamil breakfasts unavailable elsewhere in Mumbai. The vendors are mostly women who cook from home recipes.",
+    "vibe": 8.7,
+    "localLove": 9.7,
+    "uniqueness": 9.2,
+    "tags": [
+      "tamil food",
+      "idiyappam",
+      "kuzhambu",
+      "migrant community",
+      "women cooks",
+      "sion"
+    ],
+    "tip": "7-10am for breakfast. The idiyappam with coconut milk is the most Tamil-home thing available in Mumbai.",
+    "status": "approved",
+    "agentIcon": "🌙",
+    "discoveredBy": "Dharavi / Sion / Chembur",
+    "lat": 19.0358,
+    "lng": 72.8699,
+    "maps_url": "https://www.google.com/maps?q=19.0358,72.8699",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Chunabhatti",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "mag9-3",
+    "cityId": "mumbai",
+    "name": "Chembur Agiari (Parsi Fire Temple)",
+    "type": "experience",
+    "neighborhood": "Chembur",
+    "description": "A Zoroastrian fire temple in the Chembur Parsi colony open to non-Zoroastrians in its outer garden — a manicured, almost impossibly quiet green space in one of Mumbai's densest suburbs. The temple architecture is Art Deco Parsi. The colony around it has changed nothing since 1948.",
+    "vibe": 9.1,
+    "localLove": 8.6,
+    "uniqueness": 9.3,
+    "tags": [
+      "parsi fire temple",
+      "zoroastrian",
+      "1948 colony",
+      "art deco",
+      "garden",
+      "chembur"
+    ],
+    "tip": "The outer garden is accessible to all. Dress conservatively. The colony streets behind the temple have unchanged Parsi bungalows from the 1940s.",
+    "status": "approved",
+    "agentIcon": "🌙",
+    "discoveredBy": "Dharavi / Sion / Chembur",
+    "lat": 19.0586,
+    "lng": 72.9003,
+    "maps_url": "https://www.google.com/maps?q=19.0586,72.9003",
+    "transport": [
+      {
+        "line": "Harbour Line",
+        "station": "Chembur",
+        "walk_min": 10
+      }
+    ]
+  },
+  {
+    "id": "mag9-4",
+    "cityId": "mumbai",
+    "name": "RK Studios Wall, Chembur",
+    "type": "experience",
+    "neighborhood": "Chembur",
+    "description": "The exterior wall of the legendary RK Studios — Raj Kapoor's production house and the birthplace of much of the 1950s-70s Bollywood canon — is now a mural site since the studio was demolished. The wall faces the road and local residents have created an informal memorial with paintings and old film posters.",
+    "vibe": 8.8,
+    "localLove": 9.0,
+    "uniqueness": 9.1,
+    "tags": [
+      "RK studios",
+      "raj kapoor",
+      "bollywood heritage",
+      "mural wall",
+      "chembur",
+      "demolished memorial"
+    ],
+    "tip": "Go in the morning when the light falls on the murals. The old film posters pasted around the base are from the community's collection.",
+    "status": "approved",
+    "agentIcon": "🌙",
+    "discoveredBy": "Dharavi / Sion / Chembur",
+    "lat": 19.0568,
+    "lng": 72.8988,
+    "maps_url": "https://www.google.com/maps?q=19.0568,72.8988",
+    "transport": [
+      {
+        "line": "Harbour Line",
+        "station": "Chembur",
+        "walk_min": 13
+      }
+    ]
+  },
+  {
+    "id": "mag9-5",
+    "cityId": "mumbai",
+    "name": "Govandi Recycling Market",
+    "type": "market",
+    "neighborhood": "Govandi / Deonar",
+    "description": "A recycling and salvage market near Govandi where the city's waste economy operates — paper, plastic, metal, and electronics sorted, disassembled, and resold by specialist traders. The knowledge base of these traders about materials and components is extraordinary. The most honest capitalism in Mumbai.",
+    "vibe": 8.2,
+    "localLove": 9.4,
+    "uniqueness": 9.7,
+    "tags": [
+      "recycling market",
+      "govandi",
+      "waste economy",
+      "salvage",
+      "honest capitalism"
+    ],
+    "tip": "Go on a weekday morning. The electronics disassembly section is the most fascinating. Dress for the environment.",
+    "status": "approved",
+    "agentIcon": "🌙",
+    "discoveredBy": "Dharavi / Sion / Chembur",
+    "lat": 19.0531,
+    "lng": 72.9221,
+    "maps_url": "https://www.google.com/maps?q=19.0531,72.9221",
+    "transport": [
+      {
+        "line": "Harbour Line",
+        "station": "Govandi",
+        "walk_min": 14
+      }
+    ]
+  },
+  {
+    "id": "mag9-6",
+    "cityId": "mumbai",
+    "name": "Dharavi Recycling Paper District",
+    "type": "experience",
+    "neighborhood": "Dharavi",
+    "description": "A section of Dharavi where waste paper is sorted, cleaned, pressed, and sold — a complete recycling economy. Bales of paper arrive by cart and leave as raw material for packaging factories. The women who sort paper are often running businesses with turnover larger than many formal enterprises.",
+    "vibe": 8.4,
+    "localLove": 9.3,
+    "uniqueness": 9.4,
+    "tags": [
+      "paper recycling",
+      "dharavi",
+      "women entrepreneurs",
+      "waste economy",
+      "informal business"
+    ],
+    "tip": "Go with a local guide. The sorting process is explained enthusiastically — the women who run these units are proud of their operations.",
+    "status": "approved",
+    "agentIcon": "🌙",
+    "discoveredBy": "Dharavi / Sion / Chembur",
+    "lat": 19.0425,
+    "lng": 72.8542,
+    "maps_url": "https://www.google.com/maps?q=19.0425,72.8542",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Mahim Junction",
+        "walk_min": 16
+      }
+    ]
+  },
+  {
+    "id": "mag9-7",
+    "cityId": "mumbai",
+    "name": "Five Gardens, Matunga East",
+    "type": "experience",
+    "neighborhood": "Matunga East / Parsi Colony",
+    "description": "A cluster of five small public gardens in the Parsi colony of Matunga East that form a connected green space where the Parsi community has been taking morning walks since the 1930s. The surrounding bungalows and the residents who maintain century-old routines are the real attraction.",
+    "vibe": 8.8,
+    "localLove": 9.4,
+    "uniqueness": 8.7,
+    "tags": [
+      "parsi colony",
+      "five gardens",
+      "1930s",
+      "morning walk",
+      "community green"
+    ],
+    "tip": "6-8am on weekdays when the elderly Parsi residents are on their morning walk. The community is welcoming and the architecture of the surrounding bungalows is extraordinary.",
+    "status": "approved",
+    "agentIcon": "🌙",
+    "discoveredBy": "Dharavi / Sion / Chembur",
+    "lat": 19.0307,
+    "lng": 72.8477,
+    "maps_url": "https://www.google.com/maps?q=19.0307,72.8477",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Matunga Road",
+        "walk_min": 11
+      }
+    ]
+  },
+  {
+    "id": "mag9-8",
+    "cityId": "mumbai",
+    "name": "Antop Hill Koli Village",
+    "type": "experience",
+    "neighborhood": "Antop Hill, Wadala",
+    "description": "A Koli fishing community village on Antop Hill — a hilltop community surrounded by Mumbai's largest port — that has been fishing the Thane Creek for centuries. The village temple dates to 1650 and the community maintains the same relationship with the water that their ancestors did, despite being surrounded by industrial port infrastructure.",
+    "vibe": 9.0,
+    "localLove": 9.3,
+    "uniqueness": 9.5,
+    "tags": [
+      "koli village",
+      "antop hill",
+      "1650 temple",
+      "thane creek",
+      "port surroundings",
+      "centuries old"
+    ],
+    "tip": "Walk up from Wadala station and ask for the Koli village. The temple priest explains the community history. Go for the view over the creek.",
+    "status": "approved",
+    "agentIcon": "🌙",
+    "discoveredBy": "Dharavi / Sion / Chembur",
+    "lat": 19.0223,
+    "lng": 72.8685,
+    "maps_url": "https://www.google.com/maps?q=19.0223,72.8685",
+    "transport": [
+      {
+        "line": "Harbour Line",
+        "station": "Wadala Road",
+        "walk_min": 18
+      }
+    ]
+  },
+  {
+    "id": "mag9-9",
+    "cityId": "mumbai",
+    "name": "Vinod Cold Drinks, Sion",
+    "type": "restaurant",
+    "neighborhood": "Sion",
+    "description": "A juice and cold drink shop in Sion that has been making fresh sugarcane juice with ginger and lime since 1961. The press is original — a cast iron roller sugarcane press that the family refuses to replace. The juice is served in steel glasses and costs ₹20. The shop interior hasn't been updated since 1978.",
+    "vibe": 8.7,
+    "localLove": 9.6,
+    "uniqueness": 8.9,
+    "tags": [
+      "sugarcane juice",
+      "1961",
+      "cast iron press",
+      "steel glass",
+      "₹20",
+      "sion"
+    ],
+    "tip": "Go in the afternoon when the sugarcane press is running at full speed. The ginger-lime variant. Cash and steel glasses only.",
+    "status": "approved",
+    "agentIcon": "🌙",
+    "discoveredBy": "Dharavi / Sion / Chembur",
+    "lat": 19.0392,
+    "lng": 72.8621,
+    "maps_url": "https://www.google.com/maps?q=19.0392,72.8621",
+    "transport": [
+      {
+        "line": "Central Line",
+        "station": "Sion",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "mag10-0",
+    "cityId": "mumbai",
+    "name": "Hanging Gardens at Dusk",
+    "type": "experience",
+    "neighborhood": "Malabar Hill",
+    "description": "The terraced gardens on Malabar Hill that face the Arabian Sea — at dusk the light turns the water gold while the city below contracts into evening light. The topiary animals are inexplicably calming. The Parsee Tower of Silence is just beyond the treeline, invisible but present.",
+    "vibe": 9.3,
+    "localLove": 8.9,
+    "uniqueness": 8.4,
+    "tags": [
+      "hanging gardens",
+      "malabar hill",
+      "dusk",
+      "sea view",
+      "free",
+      "topiary"
+    ],
+    "tip": "Go 30 minutes before sunset and walk to the western edge. The view of Marine Drive curving below with the sea beyond is one of Mumbai's great sights.",
+    "status": "approved",
+    "agentIcon": "🔮",
+    "discoveredBy": "Malabar Hill / Breach Candy / Walkeshwar",
+    "lat": 18.955,
+    "lng": 72.8036,
+    "maps_url": "https://www.google.com/maps?q=18.9550,72.8036",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Malabar Hill / Babulnath",
+        "walk_min": 12
+      }
+    ]
+  },
+  {
+    "id": "mag10-1",
+    "cityId": "mumbai",
+    "name": "Soam, Babulnath",
+    "type": "restaurant",
+    "neighborhood": "Babulnath / Girgaon",
+    "description": "A Gujarati and Rajasthani vegetarian restaurant near Babulnath temple that has been the destination for Gujarati pure-veg comfort food for 25 years. The handvo (savoury rice cake), the dhokla, and the thali are all made to the kind of recipes that Gujarati mothers benchmark against.",
+    "vibe": 8.8,
+    "localLove": 9.4,
+    "uniqueness": 8.6,
+    "tags": [
+      "gujarati veg",
+      "handvo",
+      "dhokla",
+      "babulnath",
+      "pure veg",
+      "25 years"
+    ],
+    "tip": "The handvo and the complete thali. Weekend lunch for the fullest experience — the mango aamras in summer.",
+    "status": "approved",
+    "agentIcon": "🔮",
+    "discoveredBy": "Malabar Hill / Breach Candy / Walkeshwar",
+    "lat": 18.9538,
+    "lng": 72.8102,
+    "maps_url": "https://www.google.com/maps?q=18.9538,72.8102",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Babulnath",
+        "walk_min": 6
+      }
+    ]
+  },
+  {
+    "id": "mag10-2",
+    "cityId": "mumbai",
+    "name": "Breach Candy Club Sunset",
+    "type": "bar",
+    "neighborhood": "Breach Candy",
+    "description": "A colonial-era club with a 1930s swimming pool on the Arabian Sea. Non-members can access the seafront bar area without a pool membership and the sunset view from here — looking south along the sea toward Colaba — is unmatched in the city. The drinks are expensive and the conversation is South Mumbai old money.",
+    "vibe": 9.2,
+    "localLove": 7.8,
+    "uniqueness": 9.1,
+    "tags": [
+      "colonial club",
+      "1930s pool",
+      "breach candy",
+      "sea view",
+      "old money",
+      "sunset bar"
+    ],
+    "tip": "Walk in and ask for the seafront bar. No pool access but the bar has the same view. Dress appropriately for a colonial club.",
+    "status": "approved",
+    "agentIcon": "🔮",
+    "discoveredBy": "Malabar Hill / Breach Candy / Walkeshwar",
+    "lat": 18.968,
+    "lng": 72.8049,
+    "maps_url": "https://www.google.com/maps?q=18.9680,72.8049",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Breach Candy",
+        "walk_min": 5
+      }
+    ]
+  },
+  {
+    "id": "mag10-3",
+    "cityId": "mumbai",
+    "name": "Chowpatty Beach at 6am",
+    "type": "experience",
+    "neighborhood": "Chowpatty, Girgaon",
+    "description": "Girgaon Chowpatty beach before the day starts — at 6am the yoga practitioners, the horse exercisers, the bhelpuri vendors setting up, the elderly couples walking with their shoes off. By 9am it's a different place. The Marine Drive arc behind you and the sea before you, free of everything.",
+    "vibe": 9.1,
+    "localLove": 9.5,
+    "uniqueness": 8.3,
+    "tags": [
+      "chowpatty",
+      "6am",
+      "yoga",
+      "free",
+      "marine drive view",
+      "horse exercise"
+    ],
+    "tip": "6am on a weekday. The yoga practitioners on the north end, the horse trainers on the south. The sea is warmest between August and October.",
+    "status": "approved",
+    "agentIcon": "🔮",
+    "discoveredBy": "Malabar Hill / Breach Candy / Walkeshwar",
+    "lat": 18.9544,
+    "lng": 72.8149,
+    "maps_url": "https://www.google.com/maps?q=18.9544,72.8149",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Charni Road",
+        "walk_min": 9
+      }
+    ]
+  },
+  {
+    "id": "mag10-4",
+    "cityId": "mumbai",
+    "name": "Cream Centre, Chowpatty",
+    "type": "restaurant",
+    "neighborhood": "Chowpatty",
+    "description": "A pure vegetarian restaurant with a Chowpatty address since 1963 that does Mexican, Lebanese, and Italian food through a Gujarati lens. The outcome is extraordinary: sev tostadas, paneer shawarma, and pasta with panch phoron. Sounds wrong. Tastes right.",
+    "vibe": 8.6,
+    "localLove": 9.2,
+    "uniqueness": 9.0,
+    "tags": [
+      "pure vegetarian",
+      "gujarati interpretation",
+      "1963",
+      "chowpatty",
+      "paneer shawarma",
+      "sev tostadas"
+    ],
+    "tip": "The sev tostadas and the paneer shawarma. The mock meat dishes are technically impressive. Evening for the full Chowpatty experience.",
+    "status": "approved",
+    "agentIcon": "🔮",
+    "discoveredBy": "Malabar Hill / Breach Candy / Walkeshwar",
+    "lat": 18.9541,
+    "lng": 72.8144,
+    "maps_url": "https://www.google.com/maps?q=18.9541,72.8144",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Charni Road",
+        "walk_min": 11
+      }
+    ]
+  },
+  {
+    "id": "mag10-5",
+    "cityId": "mumbai",
+    "name": "Malabar Hill Jain Derasars Walk",
+    "type": "experience",
+    "neighborhood": "Malabar Hill",
+    "description": "A walking trail through four Jain temples (derasars) clustered on Malabar Hill, each with extraordinary carved marble interiors. The Babu Amichand Panalal Adishwarji temple has a marble-inlaid interior that took 30 years to complete. Entry free, photography not permitted, the silence inside is absolute.",
+    "vibe": 9.3,
+    "localLove": 8.8,
+    "uniqueness": 9.2,
+    "tags": [
+      "jain temples",
+      "derasar",
+      "marble carved",
+      "malabar hill",
+      "30 year marble",
+      "free entry"
+    ],
+    "tip": "Morning 7-11am when the temples are active. Dress conservatively. Remove shoes and leather goods outside. The full walk takes 90 minutes.",
+    "status": "approved",
+    "agentIcon": "🔮",
+    "discoveredBy": "Malabar Hill / Breach Candy / Walkeshwar",
+    "lat": 18.953,
+    "lng": 72.8065,
+    "maps_url": "https://www.google.com/maps?q=18.9530,72.8065",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Teen Batti / Malabar Hill",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "mag10-6",
+    "cityId": "mumbai",
+    "name": "Marine Drive at 5am",
+    "type": "experience",
+    "neighborhood": "Marine Drive / Nariman Point",
+    "description": "The Queen's Necklace before the city wakes — the entire 3.6km arc of Marine Drive with almost no traffic, the Arabian Sea on one side and the art deco apartment buildings on the other lit from within by early risers. The wave action on the tetrapods in the morning light is extraordinary.",
+    "vibe": 9.7,
+    "localLove": 9.6,
+    "uniqueness": 8.8,
+    "tags": [
+      "marine drive",
+      "5am",
+      "art deco",
+      "queen's necklace",
+      "free",
+      "tetrapods"
+    ],
+    "tip": "5am is the window. Walk from Nariman Point north to Chowpatty in 45 minutes. The art deco apartment buildings have their best light before 7am.",
+    "status": "approved",
+    "agentIcon": "🔮",
+    "discoveredBy": "Malabar Hill / Breach Candy / Walkeshwar",
+    "lat": 18.9434,
+    "lng": 72.823,
+    "maps_url": "https://www.google.com/maps?q=18.9434,72.8230",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Churchgate",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "mag10-7",
+    "cityId": "mumbai",
+    "name": "Swati Snacks",
+    "type": "restaurant",
+    "neighborhood": "Tardeo / Tejpal Road",
+    "description": "A Gujarati snacks restaurant that has been the city's definitive answer to upscale street food since 1963 — clean, precise, and using the best ingredients. The pani puri comes with flavoured pani in six varieties. The dahiwada is served in an actual ceramic bowl. Every Mumbaikar has brought every out-of-towner here.",
+    "vibe": 9.0,
+    "localLove": 9.5,
+    "uniqueness": 8.4,
+    "tags": [
+      "gujarati snacks",
+      "pani puri",
+      "dahiwada",
+      "1963",
+      "upscale street food",
+      "tardeo"
+    ],
+    "tip": "Arrive 15 minutes after opening to avoid the queue. Order the pani puri with all six varieties of pani. The dahiwada and the undhiyu in winter.",
+    "status": "approved",
+    "agentIcon": "🔮",
+    "discoveredBy": "Malabar Hill / Breach Candy / Walkeshwar",
+    "lat": 18.961,
+    "lng": 72.8092,
+    "maps_url": "https://www.google.com/maps?q=18.9610,72.8092",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Tardeo",
+        "walk_min": 7
+      }
+    ]
+  },
+  {
+    "id": "mag10-8",
+    "cityId": "mumbai",
+    "name": "Walkeshwar Temple Tank Morning",
+    "type": "experience",
+    "neighborhood": "Walkeshwar, Malabar Hill",
+    "description": "The Banganga tank — an ancient freshwater tank on Malabar Hill — at its best at dawn when priests perform their morning rituals and the migratory birds rest on the steps. The temples surrounding the tank date from the 12th to 18th century and are all active. The sound of bells and the smell of incense start at 5:30am.",
+    "vibe": 9.5,
+    "localLove": 9.2,
+    "uniqueness": 9.5,
+    "tags": [
+      "banganga tank",
+      "dawn ritual",
+      "12th century temples",
+      "migratory birds",
+      "walkeshwar",
+      "5:30am bells"
+    ],
+    "tip": "5:30am for the morning puja. Walk the tank perimeter — it takes 20 minutes. The chai stall at the north entrance opens at 6am.",
+    "status": "approved",
+    "agentIcon": "🔮",
+    "discoveredBy": "Malabar Hill / Breach Candy / Walkeshwar",
+    "lat": 18.9519,
+    "lng": 72.7989,
+    "maps_url": "https://www.google.com/maps?q=18.9519,72.7989",
+    "transport": [
+      {
+        "line": "Bus",
+        "station": "Walkeshwar Road",
+        "walk_min": 8
+      }
+    ]
+  },
+  {
+    "id": "mag10-9",
+    "cityId": "mumbai",
+    "name": "Khyber Restaurant",
+    "type": "restaurant",
+    "neighborhood": "Fort / Kala Ghoda",
+    "description": "A North Indian restaurant in Fort that has served consistent Mughlai and Frontier food since 1974 in a room decorated with miniature paintings and terracotta tiles. The rogan josh and the dal bukhara have not changed. The bread section — naan, paratha, sheermal — is the strongest argument for the kitchen.",
+    "vibe": 8.8,
+    "localLove": 9.0,
+    "uniqueness": 8.5,
+    "tags": [
+      "mughlai",
+      "1974",
+      "fort",
+      "rogan josh",
+      "dal bukhara",
+      "miniature paintings"
+    ],
+    "tip": "The rogan josh and the sheermal. Lunch on a weekday when the Fort office crowd fills it. Book a corner table for the best view of the room.",
+    "status": "approved",
+    "agentIcon": "🔮",
+    "discoveredBy": "Malabar Hill / Breach Candy / Walkeshwar",
+    "lat": 18.929,
+    "lng": 72.833,
+    "maps_url": "https://www.google.com/maps?q=18.9290,72.8330",
+    "transport": [
+      {
+        "line": "Western Line",
+        "station": "Churchgate",
+        "walk_min": 12
+      }
+    ]
+  }
+]
